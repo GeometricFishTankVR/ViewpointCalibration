@@ -1,0 +1,15 @@
+<?xml version="1.0" encoding="utf-8"?>
+<opencv_storage>
+   <transform_T2S type_id="opencv-matrix">
+      <rows>4</rows>
+      <cols>4</cols>
+      <dt>f</dt>
+      <data>-2.16612569e-02  8.63045227e-03  1.67906356e-01  4.46060934e-02 -5.65271504e-03 -1.69235848e-01  7.96954344e-03 -9.19321792e-01  1.68032960e-01 -4.58062262e-03  2.19130357e-02  1.02608410e+00  0.00000000e+00  0.00000000e+00  0.00000000e+00  1.00000000e+00</data>
+   </transform_T2S>
+   <transform_calibRotation type_id="opencv-matrix">
+      <rows>4</rows>
+      <cols>4</cols>
+      <dt>f</dt>
+      <data>-1.27781708e-01 -3.33458759e-02  9.91241589e-01  0.00000000e+00  5.09118164e-02 -9.98337531e-01 -2.70215060e-02  0.00000000e+00 -9.90494736e-01 -4.70130556e-02 -1.29266974e-01  0.00000000e+00  0.00000000e+00  0.00000000e+00  0.00000000e+00  1.00000000e+00</data>
+   </transform_calibRotation>
+</opencv_storage>

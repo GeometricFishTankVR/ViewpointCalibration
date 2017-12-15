@@ -1,0 +1,1863 @@
+5/5/2017 10:54:56 PM Claw Selection User Study: <condition>Spheree</condition> Log. 
+
+<t><time>1.081</time><event>LogSystem Initialized.</event></t>
+<t><time>1.081</time>
+<eye>Left</eye></t>
+<t><time>1.081</time>
+<hand>Right</hand></t>
+<t><time>1.081</time>
+<event>ActivatedDisplay1</event></t>
+<t><time>1.081</time>
+<event>ActivatedDisplay2</event></t>
+<t><time>1.081</time>
+<event>ActivatedDisplay3</event></t>
+<t><time>15.527</time>
+<viewpoint> <position>(8.9960, 2.3284, 4.8234)</position> <rotation>(0.0575, -0.8527, 0.0960, 0.5103)</rotation></viewpoint>
+<clawtip><position>(0.0000, 0.1478, 0.2500)</position></clawtip></t>
+
+
+<t><time>15.527</time>
+<keyevent>ClawSceneStarted</keyevent> <name>Practice</name></t>
+<t><time>15.527</time>
+<event>Create4Targets</event></t>
+<t><time>16.047</time>
+<viewpoint> <position>(8.7838, 2.5734, 4.6470)</position> <rotation>(0.0652, -0.8498, 0.1082, 0.5118)</rotation></viewpoint>
+<clawtip><position>(0.0000, 0.1978, 0.3000)</position></clawtip></t>
+<t><time>16.087</time>
+<keyevent>ActivatedTargetNum</keyevent>
+<tid>0</tid>
+<position>(-0.6211, 0.4197, -0.3196)</position>
+<diameter>(0.0508, 0.0508, 0.0508)</diameter>
+<distance>0.9049</distance>
+</t>
+<t><time>16.553</time>
+<viewpoint> <position>(6.8216, 3.8751, 4.3501)</position> <rotation>(-0.1065, 0.8551, -0.1942, -0.4689)</rotation></viewpoint>
+<clawtip><position>(0.0000, 0.1978, 0.3000)</position></clawtip></t>
+<t><time>17.060</time>
+<viewpoint> <position>(4.4872, 4.8272, 5.2550)</position> <rotation>(-0.1039, 0.8949, -0.2816, -0.3301)</rotation></viewpoint>
+<clawtip><position>(0.0000, 0.1978, 0.3000)</position></clawtip></t>
+<t><time>17.567</time>
+<viewpoint> <position>(3.5352, 5.0438, 4.4105)</position> <rotation>(-0.1181, 0.8816, -0.3361, -0.3097)</rotation></viewpoint>
+<clawtip><position>(0.0000, 0.1978, 0.3000)</position></clawtip></t>
+<t><time>18.087</time>
+<viewpoint> <position>(2.6704, 5.1764, 3.8065)</position> <rotation>(-0.1226, 0.8709, -0.3884, -0.2750)</rotation></viewpoint>
+<clawtip><position>(0.0000, 0.1978, 0.3000)</position></clawtip></t>
+<t><time>18.593</time>
+<viewpoint> <position>(0.8858, 5.1520, 3.9342)</position> <rotation>(-0.0484, 0.8935, -0.4353, -0.0993)</rotation></viewpoint>
+<clawtip><position>(-0.0139, 0.1978, 0.3021)</position></clawtip></t>
+<t><time>19.100</time>
+<viewpoint> <position>(-0.2464, 5.1501, 4.0433)</position> <rotation>(0.0133, 0.8991, -0.4367, 0.0274)</rotation></viewpoint>
+<clawtip><position>(-0.1969, 0.1978, 0.2659)</position></clawtip></t>
+<t><time>19.607</time>
+<viewpoint> <position>(-0.0599, 5.1483, 3.5768)</position> <rotation>(0.0039, 0.8861, -0.4633, 0.0074)</rotation></viewpoint>
+<clawtip><position>(-0.3985, 0.2408, 0.1487)</position></clawtip></t>
+<t><time>20.127</time>
+<viewpoint> <position>(-0.3695, 5.0428, 3.5097)</position> <rotation>(0.0242, 0.8857, -0.4612, 0.0465)</rotation></viewpoint>
+<clawtip><position>(-0.5518, 0.2556, -0.0394)</position></clawtip></t>
+<t><time>20.633</time>
+<viewpoint> <position>(-0.6176, 4.8603, 3.7686)</position> <rotation>(0.0355, 0.8964, -0.4357, 0.0730)</rotation></viewpoint>
+<clawtip><position>(-0.5986, 0.2899, -0.2125)</position></clawtip></t>
+<t><time>20.820</time>
+<event>ClawCollidedOn</event>
+<name>apple-target1</name></t>
+<t><time>21.140</time>
+<viewpoint> <position>(-0.5874, 4.8214, 3.8582)</position> <rotation>(0.0325, 0.9000, -0.4294, 0.0681)</rotation></viewpoint>
+<clawtip><position>(-0.6019, 0.4193, -0.2403)</position></clawtip></t>
+<t><time>21.647</time>
+<viewpoint> <position>(-0.5645, 4.8558, 3.7967)</position> <rotation>(0.0321, 0.8976, -0.4346, 0.0664)</rotation></viewpoint>
+<clawtip><position>(-0.6017, 0.4292, -0.2420)</position></clawtip></t>
+<t><time>22.167</time>
+<viewpoint> <position>(-0.4661, 4.9289, 3.6682)</position> <rotation>(0.0282, 0.8927, -0.4463, 0.0565)</rotation></viewpoint>
+<clawtip><position>(-0.6089, 0.5815, -0.2656)</position></clawtip></t>
+<t><time>22.673</time>
+<viewpoint> <position>(-0.2563, 4.9355, 3.6019)</position> <rotation>(0.0161, 0.8912, -0.4522, 0.0317)</rotation></viewpoint>
+<clawtip><position>(-0.6327, 0.5789, -0.3232)</position></clawtip></t>
+<t><time>23.180</time>
+<viewpoint> <position>(-0.2204, 4.9371, 3.6157)</position> <rotation>(0.0138, 0.8917, -0.4517, 0.0272)</rotation></viewpoint>
+<clawtip><position>(-0.6185, 0.5601, -0.3288)</position></clawtip></t>
+<t><time>23.380</time>
+<event>GrabButtonPressed</event></t>
+<t><time>23.380</time>
+<event>ClawWillOpen</event></t>
+<t><time>23.380</time>
+<event>ClawGrabDistanceToTarget</event>
+<distance>0.0371</distance></t>
+<t><time>23.380</time>
+<keyevent>ClawWillReachTarget</keyevent></t>
+<t><time>23.380</time>
+<targetinfo><tid>0</tid><distance>0.9049382</distance><diameter>0.05084673</diameter><deltatime>7.292658</deltatime><erate>0</erate><trate>0</trate></targetinfo></t>
+<t><time>23.687</time>
+<viewpoint> <position>(-0.2980, 4.9430, 3.5868)</position> <rotation>(0.0188, 0.8905, -0.4531, 0.0369)</rotation></viewpoint>
+<clawtip><position>(-0.6034, 0.5579, -0.3278)</position></clawtip></t>
+<t><time>24.207</time>
+<viewpoint> <position>(-0.3812, 4.9458, 3.4701)</position> <rotation>(0.0252, 0.8866, -0.4594, 0.0485)</rotation></viewpoint>
+<clawtip><position>(-0.6015, 0.4820, -0.3277)</position></clawtip></t>
+<t><time>24.714</time>
+<viewpoint> <position>(-0.2947, 4.9866, 3.4065)</position> <rotation>(0.0201, 0.8839, -0.4657, 0.0382)</rotation></viewpoint>
+<clawtip><position>(-0.6014, 0.4527, -0.3277)</position></clawtip></t>
+<t><time>24.820</time>
+<event>ClawAttachedTarget</event></t>
+<t><time>24.820</time>
+<event>ClawGotTarget</event></t>
+<t><time>25.220</time>
+<viewpoint> <position>(-0.1879, 4.9905, 3.3276)</position> <rotation>(0.0133, 0.8815, -0.4713, 0.0249)</rotation></viewpoint>
+<clawtip><position>(-0.6033, 0.4527, -0.2952)</position></clawtip></t>
+<t><time>25.727</time>
+<viewpoint> <position>(-0.0421, 5.0217, 3.2734)</position> <rotation>(0.0031, 0.8792, -0.4764, 0.0057)</rotation></viewpoint>
+<clawtip><position>(-0.5188, 0.4527, -0.1450)</position></clawtip></t>
+<t><time>26.247</time>
+<viewpoint> <position>(-0.0168, 4.9791, 3.3972)</position> <rotation>(0.0012, 0.8842, -0.4671, 0.0022)</rotation></viewpoint>
+<clawtip><position>(-0.3368, 0.4527, -0.0082)</position></clawtip></t>
+<t><time>26.753</time>
+<viewpoint> <position>(-0.6524, 5.1528, 3.5333)</position> <rotation>(0.0422, 0.8829, -0.4607, 0.0808)</rotation></viewpoint>
+<clawtip><position>(-0.1524, 0.4527, 0.1225)</position></clawtip></t>
+<t><time>27.260</time>
+<viewpoint> <position>(-0.3057, 5.0842, 3.5427)</position> <rotation>(0.0199, 0.8861, -0.4616, 0.0382)</rotation></viewpoint>
+<clawtip><position>(0.0283, 0.4527, 0.2759)</position></clawtip></t>
+<t><time>27.767</time>
+<viewpoint> <position>(-0.4026, 5.0619, 3.4394)</position> <rotation>(0.0272, 0.8830, -0.4658, 0.0515)</rotation></viewpoint>
+<clawtip><position>(0.2130, 0.4527, 0.4107)</position></clawtip></t>
+<t><time>28.287</time>
+<viewpoint> <position>(-0.4747, 5.0005, 3.3898)</position> <rotation>(0.0324, 0.8824, -0.4653, 0.0615)</rotation></viewpoint>
+<clawtip><position>(0.3708, 0.4527, 0.4620)</position></clawtip></t>
+<t><time>28.434</time>
+<event>ReleaseButtonPressed</event></t>
+<t><time>28.434</time>
+<event>ClawWillRelease</event></t>
+<t><time>28.794</time>
+<viewpoint> <position>(-0.4347, 5.0203, 3.3391)</position> <rotation>(0.0304, 0.8805, -0.4696, 0.0571)</rotation></viewpoint>
+<clawtip><position>(0.3991, 0.4527, 0.4425)</position></clawtip></t>
+<t><time>28.980</time>
+<event>ClawDetachedTarget</event></t>
+<t><time>28.980</time>
+<event>ClawReleased</event></t>
+<t><time>29.300</time>
+<viewpoint> <position>(-0.4981, 5.0205, 3.3296)</position> <rotation>(0.0349, 0.8799, -0.4694, 0.0655)</rotation></viewpoint>
+<clawtip><position>(0.4026, 0.4528, 0.4402)</position></clawtip></t>
+<t><time>29.380</time>
+<event>Target dropped, collided on WoodenCrate</event></t>
+<t><time>29.580</time>
+<event>ClawCompetedTarget</event></t>
+<t><time>29.580</time>
+<keyevent>ActivatedTargetNum</keyevent>
+<tid>1</tid>
+<position>(-0.1272, 0.3017, -0.5274)</position>
+<diameter>(0.0911, 0.0911, 0.0911)</diameter>
+<distance>1.1287</distance>
+</t>
+<t><time>29.807</time>
+<viewpoint> <position>(-0.5523, 5.0228, 3.3353)</position> <rotation>(0.0385, 0.8797, -0.4683, 0.0723)</rotation></viewpoint>
+<clawtip><position>(0.4018, 0.5577, 0.4400)</position></clawtip></t>
+<t><time>30.327</time>
+<viewpoint> <position>(-0.7011, 5.0212, 3.2951)</position> <rotation>(0.0492, 0.8775, -0.4680, 0.0923)</rotation></viewpoint>
+<clawtip><position>(0.2548, 0.5577, 0.4003)</position></clawtip></t>
+<t><time>30.834</time>
+<viewpoint> <position>(-0.8994, 4.9962, 3.2192)</position> <rotation>(0.0640, 0.8739, -0.4668, 0.1198)</rotation></viewpoint>
+<clawtip><position>(0.0428, 0.5577, 0.3398)</position></clawtip></t>
+<t><time>31.340</time>
+<viewpoint> <position>(-0.8892, 4.9593, 3.1164)</position> <rotation>(0.0659, 0.8710, -0.4713, 0.1218)</rotation></viewpoint>
+<clawtip><position>(-0.1833, 0.5591, 0.2689)</position></clawtip></t>
+<t><time>31.847</time>
+<viewpoint> <position>(-0.7706, 4.9562, 3.0708)</position> <rotation>(0.0589, 0.8704, -0.4768, 0.1075)</rotation></viewpoint>
+<clawtip><position>(-0.2513, 0.7034, 0.1220)</position></clawtip></t>
+<t><time>32.353</time>
+<viewpoint> <position>(-0.7129, 4.9484, 3.0670)</position> <rotation>(0.0548, 0.8709, -0.4781, 0.0999)</rotation></viewpoint>
+<clawtip><position>(-0.2126, 0.8219, -0.0915)</position></clawtip></t>
+<t><time>32.860</time>
+<viewpoint> <position>(-0.7564, 4.9368, 3.1119)</position> <rotation>(0.0568, 0.8725, -0.4740, 0.1045)</rotation></viewpoint>
+<clawtip><position>(-0.1601, 0.7663, -0.3232)</position></clawtip></t>
+<t><time>33.367</time>
+<viewpoint> <position>(-0.8886, 4.8514, 3.5289)</position> <rotation>(0.0550, 0.8876, -0.4438, 0.1100)</rotation></viewpoint>
+<clawtip><position>(-0.1251, 0.5618, -0.4710)</position></clawtip></t>
+<t><time>33.887</time>
+<viewpoint> <position>(-0.8973, 3.6760, 3.4379)</position> <rotation>(0.0497, 0.9131, -0.3874, 0.1172)</rotation></viewpoint>
+<clawtip><position>(-0.1198, 0.4224, -0.4930)</position></clawtip></t>
+<t><time>34.160</time>
+<event>ClawCollidedOn</event>
+<name>apple-target2</name></t>
+<t><time>34.180</time>
+<event>ClawCollidedOn</event>
+<name>apple-target2</name></t>
+<t><time>34.180</time>
+<event>ClawCollidedOn</event>
+<name>apple-target2</name></t>
+<t><time>34.200</time>
+<event>ClawCollidedOn</event>
+<name>apple-target2</name></t>
+<t><time>34.393</time>
+<viewpoint> <position>(-0.7878, 1.8717, 3.3126)</position> <rotation>(0.0290, 0.9620, -0.2470, 0.1128)</rotation></viewpoint>
+<clawtip><position>(-0.1322, 0.4049, -0.5434)</position></clawtip></t>
+<t><time>34.500</time>
+<event>GrabButtonPressed</event></t>
+<t><time>34.500</time>
+<event>ClawWillOpen</event></t>
+<t><time>34.500</time>
+<event>ClawGrabDistanceToTarget</event>
+<distance>-0.0261</distance></t>
+<t><time>34.500</time>
+<keyevent>ClawWillReachTarget</keyevent></t>
+<t><time>34.500</time>
+<targetinfo><tid>1</tid><distance>1.128744</distance><diameter>0.09113868</diameter><deltatime>4.919573</deltatime><erate>0</erate><trate>0</trate></targetinfo></t>
+<t><time>34.900</time>
+<viewpoint> <position>(-0.6471, 0.9869, 3.4687)</position> <rotation>(0.0125, 0.9865, -0.1354, 0.0912)</rotation></viewpoint>
+<clawtip><position>(-0.1381, 0.4027, -0.5666)</position></clawtip></t>
+<t><time>35.406</time>
+<viewpoint> <position>(-0.6868, 0.8991, 3.4550)</position> <rotation>(0.0122, 0.9874, -0.1240, 0.0972)</rotation></viewpoint>
+<clawtip><position>(-0.1388, 0.3048, -0.5692)</position></clawtip></t>
+<t><time>35.927</time>
+<viewpoint> <position>(-0.7347, 1.6057, 3.2396)</position> <rotation>(0.0248, 0.9687, -0.2218, 0.1085)</rotation></viewpoint>
+<clawtip><position>(-0.1388, 0.2975, -0.5692)</position></clawtip></t>
+<t><time>35.940</time>
+<event>ClawAttachedTarget</event></t>
+<t><time>35.940</time>
+<event>ClawGotTarget</event></t>
+<t><time>36.433</time>
+<viewpoint> <position>(-0.6918, 3.3878, 3.3144)</position> <rotation>(0.0393, 0.9189, -0.3808, 0.0949)</rotation></viewpoint>
+<clawtip><position>(-0.1429, 0.2975, -0.5505)</position></clawtip></t>
+<t><time>36.940</time>
+<viewpoint> <position>(-0.6228, 4.8541, 3.4831)</position> <rotation>(0.0401, 0.8879, -0.4515, 0.0788)</rotation></viewpoint>
+<clawtip><position>(-0.1792, 0.2975, -0.3663)</position></clawtip></t>
+<t><time>37.447</time>
+<viewpoint> <position>(-0.3672, 5.0085, 3.3842)</position> <rotation>(0.0253, 0.8825, -0.4672, 0.0477)</rotation></viewpoint>
+<clawtip><position>(-0.1779, 0.2975, -0.1507)</position></clawtip></t>
+<t><time>37.967</time>
+<viewpoint> <position>(-0.2265, 4.9473, 3.2524)</position> <rotation>(0.0165, 0.8799, -0.4739, 0.0306)</rotation></viewpoint>
+<clawtip><position>(-0.0251, 0.2975, -0.0011)</position></clawtip></t>
+<t><time>38.474</time>
+<viewpoint> <position>(-0.1153, 4.8962, 3.2531)</position> <rotation>(0.0084, 0.8812, -0.4723, 0.0156)</rotation></viewpoint>
+<clawtip><position>(0.1890, 0.2975, 0.0738)</position></clawtip></t>
+<t><time>38.980</time>
+<viewpoint> <position>(-0.0887, 4.8662, 3.2973)</position> <rotation>(0.0063, 0.8834, -0.4684, 0.0119)</rotation></viewpoint>
+<clawtip><position>(0.3412, 0.2975, 0.2298)</position></clawtip></t>
+<t><time>39.287</time>
+<event>ReleaseButtonPressed</event></t>
+<t><time>39.287</time>
+<event>ClawWillRelease</event></t>
+<t><time>39.484</time>
+<viewpoint> <position>(-0.1001, 4.8487, 3.2981)</position> <rotation>(0.0071, 0.8838, -0.4676, 0.0134)</rotation></viewpoint>
+<clawtip><position>(0.3877, 0.2975, 0.3734)</position></clawtip></t>
+<t><time>40.005</time>
+<viewpoint> <position>(-0.1517, 4.8566, 3.2848)</position> <rotation>(0.0108, 0.8831, -0.4686, 0.0204)</rotation></viewpoint>
+<clawtip><position>(0.3943, 0.2975, 0.3947)</position></clawtip></t>
+<t><time>40.110</time>
+<event>ClawDetachedTarget</event></t>
+<t><time>40.110</time>
+<event>ClawReleased</event></t>
+<t><time>40.480</time>
+<event>Target dropped, collided on WoodenCrate</event></t>
+<t><time>40.511</time>
+<viewpoint> <position>(-0.2457, 4.8650, 3.2702)</position> <rotation>(0.0176, 0.8823, -0.4693, 0.0331)</rotation></viewpoint>
+<clawtip><position>(0.3947, 0.3131, 0.3960)</position></clawtip></t>
+<t><time>40.520</time>
+<event>Target dropped, collided on WoodenCrate</event></t>
+<t><time>40.711</time>
+<event>ClawCompetedTarget</event></t>
+<t><time>40.711</time>
+<keyevent>ActivatedTargetNum</keyevent>
+<tid>2</tid>
+<position>(0.3719, 0.2047, 0.0528)</position>
+<diameter>(0.0844, 0.0844, 0.0844)</diameter>
+<distance>0.3903</distance>
+</t>
+<t><time>41.017</time>
+<viewpoint> <position>(-0.2954, 4.8697, 3.2566)</position> <rotation>(0.0213, 0.8816, -0.4699, 0.0399)</rotation></viewpoint>
+<clawtip><position>(0.3830, 0.4025, 0.3949)</position></clawtip></t>
+<t><time>41.526</time>
+<viewpoint> <position>(-0.2768, 4.8574, 3.2747)</position> <rotation>(0.0198, 0.8825, -0.4684, 0.0372)</rotation></viewpoint>
+<clawtip><position>(0.3465, 0.4025, 0.2821)</position></clawtip></t>
+<t><time>42.045</time>
+<viewpoint> <position>(-0.2644, 4.8503, 3.3073)</position> <rotation>(0.0186, 0.8838, -0.4662, 0.0353)</rotation></viewpoint>
+<clawtip><position>(0.3384, 0.4003, 0.0820)</position></clawtip></t>
+<t><time>42.440</time>
+<event>ClawCollidedOn</event>
+<name>apple-target3</name></t>
+<t><time>42.440</time>
+<event>ClawCollidedOn</event>
+<name>apple-target3</name></t>
+<t><time>42.440</time>
+<event>ClawCollidedOn</event>
+<name>apple-target3</name></t>
+<t><time>42.460</time>
+<event>ClawCollidedOn</event>
+<name>apple-target3</name></t>
+<t><time>42.551</time>
+<viewpoint> <position>(-0.2284, 4.8452, 3.3069)</position> <rotation>(0.0161, 0.8840, -0.4663, 0.0305)</rotation></viewpoint>
+<clawtip><position>(0.3385, 0.2870, 0.0412)</position></clawtip></t>
+<t><time>42.858</time>
+<event>GrabButtonPressed</event></t>
+<t><time>42.858</time>
+<event>ClawWillOpen</event></t>
+<t><time>42.858</time>
+<event>ClawGrabDistanceToTarget</event>
+<distance>-0.0260</distance></t>
+<t><time>42.858</time>
+<keyevent>ClawWillReachTarget</keyevent></t>
+<t><time>42.858</time>
+<targetinfo><tid>2</tid><distance>0.3902797</distance><diameter>0.08435314</diameter><deltatime>2.146877</deltatime><erate>0</erate><trate>0</trate></targetinfo></t>
+<t><time>43.057</time>
+<viewpoint> <position>(-0.2297, 4.8459, 3.3000)</position> <rotation>(0.0162, 0.8837, -0.4667, 0.0307)</rotation></viewpoint>
+<clawtip><position>(0.3596, 0.2962, 0.0405)</position></clawtip></t>
+<t><time>43.564</time>
+<viewpoint> <position>(-0.2445, 4.8619, 3.2910)</position> <rotation>(0.0174, 0.8830, -0.4679, 0.0328)</rotation></viewpoint>
+<clawtip><position>(0.3626, 0.2665, 0.0404)</position></clawtip></t>
+<t><time>44.085</time>
+<viewpoint> <position>(-0.2422, 4.8708, 3.3004)</position> <rotation>(0.0171, 0.8831, -0.4677, 0.0324)</rotation></viewpoint>
+<clawtip><position>(0.3628, 0.1924, 0.0404)</position></clawtip></t>
+<t><time>44.298</time>
+<event>ClawAttachedTarget</event></t>
+<t><time>44.298</time>
+<event>ClawGotTarget</event></t>
+<t><time>44.591</time>
+<viewpoint> <position>(-0.2680, 4.8854, 3.3135)</position> <rotation>(0.0189, 0.8832, -0.4673, 0.0357)</rotation></viewpoint>
+<clawtip><position>(0.3610, 0.1924, 0.0694)</position></clawtip></t>
+<t><time>45.098</time>
+<viewpoint> <position>(-0.2252, 4.8701, 3.3174)</position> <rotation>(0.0158, 0.8838, -0.4667, 0.0300)</rotation></viewpoint>
+<clawtip><position>(0.3570, 0.1924, 0.2571)</position></clawtip></t>
+<t><time>45.537</time>
+<event>ReleaseButtonPressed</event></t>
+<t><time>45.537</time>
+<event>ClawWillRelease</event></t>
+<t><time>45.605</time>
+<viewpoint> <position>(-0.2165, 4.8622, 3.3253)</position> <rotation>(0.0151, 0.8842, -0.4659, 0.0287)</rotation></viewpoint>
+<clawtip><position>(0.3718, 0.1924, 0.4095)</position></clawtip></t>
+<t><time>46.125</time>
+<viewpoint> <position>(-0.2558, 4.8720, 3.3092)</position> <rotation>(0.0180, 0.8834, -0.4671, 0.0341)</rotation></viewpoint>
+<clawtip><position>(0.3744, 0.1924, 0.4303)</position></clawtip></t>
+<t><time>46.471</time>
+<event>ClawDetachedTarget</event></t>
+<t><time>46.471</time>
+<event>ClawReleased</event></t>
+<t><time>46.631</time>
+<viewpoint> <position>(-0.2548, 4.8749, 3.3095)</position> <rotation>(0.0180, 0.8833, -0.4672, 0.0340)</rotation></viewpoint>
+<clawtip><position>(0.3746, 0.1924, 0.4320)</position></clawtip></t>
+<t><time>46.860</time>
+<event>Target dropped, collided on WoodenCrate</event></t>
+<t><time>46.880</time>
+<event>Target dropped, collided on WoodenCrate</event></t>
+<t><time>47.071</time>
+<event>ClawCompetedTarget</event></t>
+<t><time>47.071</time>
+<keyevent>ActivatedTargetNum</keyevent>
+<tid>3</tid>
+<position>(0.4456, 0.5437, -0.3859)</position>
+<diameter>(0.0508, 0.0508, 0.0508)</diameter>
+<distance>0.8610</distance>
+</t>
+<t><time>47.138</time>
+<viewpoint> <position>(-0.2399, 4.8703, 3.3170)</position> <rotation>(0.0168, 0.8837, -0.4666, 0.0319)</rotation></viewpoint>
+<clawtip><position>(0.3746, 0.2963, 0.4320)</position></clawtip></t>
+<t><time>47.644</time>
+<viewpoint> <position>(-0.2430, 4.8734, 3.2848)</position> <rotation>(0.0173, 0.8826, -0.4687, 0.0326)</rotation></viewpoint>
+<clawtip><position>(0.3740, 0.2974, 0.3880)</position></clawtip></t>
+<t><time>48.165</time>
+<viewpoint> <position>(-0.2395, 4.9114, 3.2638)</position> <rotation>(0.0173, 0.8810, -0.4716, 0.0323)</rotation></viewpoint>
+<clawtip><position>(0.3690, 0.3626, 0.1824)</position></clawtip></t>
+<t><time>48.460</time>
+<event>ClawCollidedOn</event>
+<name>Island</name></t>
+<t><time>48.671</time>
+<viewpoint> <position>(-0.2569, 4.9405, 3.2469)</position> <rotation>(0.0187, 0.8798, -0.4738, 0.0347)</rotation></viewpoint>
+<clawtip><position>(0.3837, 0.5172, -0.0035)</position></clawtip></t>
+<t><time>49.178</time>
+<viewpoint> <position>(-0.2468, 4.9386, 3.2809)</position> <rotation>(0.0177, 0.8810, -0.4717, 0.0331)</rotation></viewpoint>
+<clawtip><position>(0.4010, 0.5396, -0.1873)</position></clawtip></t>
+<t><time>49.440</time>
+<event>ClawCollidedOn</event>
+<name>apple-target4</name></t>
+<t><time>49.500</time>
+<event>ClawCollidedOn</event>
+<name>apple-target4</name></t>
+<t><time>49.685</time>
+<viewpoint> <position>(-0.2458, 4.9251, 3.3226)</position> <rotation>(0.0173, 0.8827, -0.4686, 0.0326)</rotation></viewpoint>
+<clawtip><position>(0.4001, 0.5423, -0.3447)</position></clawtip></t>
+<t><time>50.100</time>
+<event>ClawCollidedOn</event>
+<name>Tree07-3</name></t>
+<t><time>50.206</time>
+<viewpoint> <position>(-0.2313, 4.9195, 3.3408)</position> <rotation>(0.0162, 0.8834, -0.4673, 0.0305)</rotation></viewpoint>
+<clawtip><position>(0.4011, 0.5186, -0.3447)</position></clawtip></t>
+<t><time>50.711</time>
+<viewpoint> <position>(-0.2366, 4.9134, 3.3663)</position> <rotation>(0.0163, 0.8844, -0.4655, 0.0310)</rotation></viewpoint>
+<clawtip><position>(0.4011, 0.5186, -0.3447)</position></clawtip></t>
+<t><time>51.217</time>
+<viewpoint> <position>(-0.2527, 4.9216, 3.3746)</position> <rotation>(0.0174, 0.8844, -0.4652, 0.0331)</rotation></viewpoint>
+<clawtip><position>(0.3450, 0.5186, -0.3488)</position></clawtip></t>
+<t><time>51.240</time>
+<event>ClawCollidedOn</event>
+<name>apple-target4</name></t>
+<t><time>51.724</time>
+<viewpoint> <position>(-0.2399, 4.9228, 3.3734)</position> <rotation>(0.0165, 0.8844, -0.4654, 0.0314)</rotation></viewpoint>
+<clawtip><position>(0.3412, 0.5842, -0.4126)</position></clawtip></t>
+<t><time>52.231</time>
+<viewpoint> <position>(-0.2202, 4.9219, 3.3858)</position> <rotation>(0.0151, 0.8848, -0.4647, 0.0287)</rotation></viewpoint>
+<clawtip><position>(0.4109, 0.6333, -0.4159)</position></clawtip></t>
+<t><time>52.259</time>
+<event>GrabButtonPressed</event></t>
+<t><time>52.259</time>
+<event>ClawWillOpen</event></t>
+<t><time>52.259</time>
+<event>ClawGrabDistanceToTarget</event>
+<distance>-0.0476</distance></t>
+<t><time>52.259</time>
+<keyevent>ClawWillReachTarget</keyevent></t>
+<t><time>52.259</time>
+<targetinfo><tid>3</tid><distance>0.860994</distance><diameter>0.05083833</diameter><deltatime>5.187878</deltatime><erate>0</erate><trate>0</trate></targetinfo></t>
+<t><time>52.738</time>
+<viewpoint> <position>(-0.2337, 4.9244, 3.3801)</position> <rotation>(0.0161, 0.8846, -0.4651, 0.0305)</rotation></viewpoint>
+<clawtip><position>(0.4207, 0.6394, -0.4162)</position></clawtip></t>
+<t><time>53.244</time>
+<viewpoint> <position>(-0.2270, 4.9275, 3.3923)</position> <rotation>(0.0155, 0.8849, -0.4645, 0.0296)</rotation></viewpoint>
+<clawtip><position>(0.4218, 0.5355, -0.4163)</position></clawtip></t>
+<t><time>53.698</time>
+<event>ClawAttachedTarget</event></t>
+<t><time>53.698</time>
+<event>ClawGotTarget</event></t>
+<t><time>53.765</time>
+<viewpoint> <position>(-0.2261, 4.9250, 3.3932)</position> <rotation>(0.0155, 0.8850, -0.4644, 0.0294)</rotation></viewpoint>
+<clawtip><position>(0.4220, 0.5351, -0.4104)</position></clawtip></t>
+<t><time>54.271</time>
+<viewpoint> <position>(-0.2267, 4.9261, 3.3815)</position> <rotation>(0.0156, 0.8846, -0.4651, 0.0296)</rotation></viewpoint>
+<clawtip><position>(0.4343, 0.5351, -0.2478)</position></clawtip></t>
+<t><time>54.778</time>
+<viewpoint> <position>(-0.3069, 4.9365, 3.3579)</position> <rotation>(0.0213, 0.8834, -0.4664, 0.0403)</rotation></viewpoint>
+<clawtip><position>(0.4485, 0.5351, -0.0248)</position></clawtip></t>
+<t><time>55.285</time>
+<viewpoint> <position>(-0.3459, 4.9134, 3.3095)</position> <rotation>(0.0244, 0.8822, -0.4680, 0.0460)</rotation></viewpoint>
+<clawtip><position>(0.4328, 0.5351, 0.2127)</position></clawtip></t>
+<t><time>55.805</time>
+<viewpoint> <position>(-0.3054, 4.9008, 3.3085)</position> <rotation>(0.0216, 0.8826, -0.4679, 0.0407)</rotation></viewpoint>
+<clawtip><position>(0.3725, 0.5351, 0.4043)</position></clawtip></t>
+<t><time>55.871</time>
+<event>ReleaseButtonPressed</event></t>
+<t><time>55.871</time>
+<event>ClawWillRelease</event></t>
+<t><time>56.311</time>
+<viewpoint> <position>(-0.2787, 4.8972, 3.3101)</position> <rotation>(0.0197, 0.8828, -0.4679, 0.0371)</rotation></viewpoint>
+<clawtip><position>(0.3458, 0.5351, 0.4376)</position></clawtip></t>
+<t><time>56.817</time>
+<viewpoint> <position>(-0.2897, 4.8943, 3.2881)</position> <rotation>(0.0206, 0.8821, -0.4690, 0.0388)</rotation></viewpoint>
+<clawtip><position>(0.3425, 0.5351, 0.4417)</position></clawtip></t>
+<t><time>56.871</time>
+<event>ClawDetachedTarget</event></t>
+<t><time>56.871</time>
+<event>ClawReleased</event></t>
+<t><time>57.325</time>
+<viewpoint> <position>(-0.3175, 4.9046, 3.2825)</position> <rotation>(0.0227, 0.8816, -0.4696, 0.0425)</rotation></viewpoint>
+<clawtip><position>(0.3425, 0.5642, 0.4417)</position></clawtip></t>
+<t><time>57.340</time>
+<event>Target dropped, collided on WoodenCrate</event></t>
+<t><time>57.440</time>
+<event>Target dropped, collided on WoodenCrate</event></t>
+<t><time>57.471</time>
+<event>ClawCompetedTarget</event></t>
+<t><time>57.471</time>
+<keyevent>ClawSceneCompleted</keyevent></t>
+<t><time>59.320</time>
+<event>Target dropped, collided on WoodenCrate</event></t>
+<t><time>61.098</time>
+<viewpoint> <position>(9.1633, 2.4636, 4.8081)</position> <rotation>(0.0603, -0.8499, 0.0998, 0.5139)</rotation></viewpoint>
+<clawtip><position>(0.3425, 0.6401, 0.4417)</position></clawtip></t>
+<t><time>61.098</time>
+<event>CleanUp4PreviouTargets</event></t>
+
+
+<t><time>61.098</time>
+<keyevent>ClawSceneStarted</keyevent> <name>Task</name></t>
+<t><time>61.098</time>
+<event>Create8Targets</event></t>
+<t><time>61.498</time>
+<keyevent>ActivatedTargetNum</keyevent>
+<tid>0</tid>
+<position>(-0.6211, 0.4197, -0.3196)</position>
+<diameter>(0.0985, 0.0985, 0.0985)</diameter>
+<distance>0.9049</distance>
+</t>
+<t><time>61.498</time>
+<event>TimerON</event></t>
+<t><time>61.605</time>
+<viewpoint> <position>(8.7466, 2.9126, 4.7663)</position> <rotation>(0.0724, -0.8511, 0.1219, 0.5055)</rotation></viewpoint>
+<clawtip><position>(0.0000, 0.1978, 0.3000)</position></clawtip></t>
+<t><time>62.124</time>
+<viewpoint> <position>(5.9127, 4.5791, 4.6768)</position> <rotation>(-0.1174, 0.8668, -0.2426, -0.4195)</rotation></viewpoint>
+<clawtip><position>(0.0000, 0.1978, 0.3000)</position></clawtip></t>
+<t><time>62.631</time>
+<viewpoint> <position>(3.6923, 4.9989, 4.6332)</position> <rotation>(-0.1133, 0.8866, -0.3241, -0.3101)</rotation></viewpoint>
+<clawtip><position>(0.0000, 0.1978, 0.3000)</position></clawtip></t>
+<t><time>63.138</time>
+<viewpoint> <position>(3.0594, 5.1698, 3.6117)</position> <rotation>(-0.1387, 0.8593, -0.3783, -0.3150)</rotation></viewpoint>
+<clawtip><position>(-0.0404, 0.1978, 0.3073)</position></clawtip></t>
+<t><time>63.645</time>
+<viewpoint> <position>(1.4567, 5.1498, 3.5153)</position> <rotation>(-0.0879, 0.8757, -0.4417, -0.1742)</rotation></viewpoint>
+<clawtip><position>(-0.2471, 0.1978, 0.3087)</position></clawtip></t>
+<t><time>64.165</time>
+<viewpoint> <position>(0.2892, 5.2034, 3.3305)</position> <rotation>(-0.0208, 0.8768, -0.4789, -0.0380)</rotation></viewpoint>
+<clawtip><position>(-0.4134, 0.1978, 0.1543)</position></clawtip></t>
+<t><time>64.671</time>
+<viewpoint> <position>(-0.1863, 5.1749, 3.0294)</position> <rotation>(0.0153, 0.8673, -0.4968, 0.0266)</rotation></viewpoint>
+<clawtip><position>(-0.5159, 0.1978, -0.0422)</position></clawtip></t>
+<t><time>65.178</time>
+<viewpoint> <position>(-1.0216, 5.1363, 3.6457)</position> <rotation>(0.0614, 0.8843, -0.4467, 0.1215)</rotation></viewpoint>
+<clawtip><position>(-0.5402, 0.1978, -0.0961)</position></clawtip></t>
+<t><time>65.684</time>
+<viewpoint> <position>(-1.4146, 5.1597, 3.7858)</position> <rotation>(0.0779, 0.8847, -0.4308, 0.1599)</rotation></viewpoint>
+<clawtip><position>(-0.5432, 0.1978, -0.1028)</position></clawtip></t>
+<t><time>66.204</time>
+<viewpoint> <position>(-0.9776, 4.7832, 3.9116)</position> <rotation>(0.0515, 0.9000, -0.4184, 0.1108)</rotation></viewpoint>
+<clawtip><position>(-0.5432, 0.1978, -0.1028)</position></clawtip></t>
+<t><time>66.711</time>
+<viewpoint> <position>(-0.5348, 4.7736, 3.9070)</position> <rotation>(0.0290, 0.9026, -0.4251, 0.0615)</rotation></viewpoint>
+<clawtip><position>(-0.5432, 0.1978, -0.1028)</position></clawtip></t>
+<t><time>67.217</time>
+<viewpoint> <position>(0.8997, 4.6992, 3.7349)</position> <rotation>(-0.0505, 0.8973, -0.4254, -0.1065)</rotation></viewpoint>
+<clawtip><position>(-0.5432, 0.1978, -0.1028)</position></clawtip></t>
+<t><time>67.725</time>
+<viewpoint> <position>(1.7990, 4.9668, 3.4170)</position> <rotation>(-0.1054, 0.8720, -0.4266, -0.2155)</rotation></viewpoint>
+<clawtip><position>(-0.5432, 0.1978, -0.1028)</position></clawtip></t>
+<t><time>68.244</time>
+<viewpoint> <position>(0.0355, 5.1716, 3.5475)</position> <rotation>(-0.0023, 0.8848, -0.4660, -0.0044)</rotation></viewpoint>
+<clawtip><position>(-0.5432, 0.1978, -0.1028)</position></clawtip></t>
+<t><time>68.751</time>
+<viewpoint> <position>(0.0426, 5.0773, 3.4872)</position> <rotation>(-0.0028, 0.8849, -0.4657, -0.0054)</rotation></viewpoint>
+<clawtip><position>(-0.5835, 0.1978, -0.2289)</position></clawtip></t>
+<t><time>69.257</time>
+<viewpoint> <position>(-0.5388, 5.0441, 3.5226)</position> <rotation>(0.0349, 0.8854, -0.4586, 0.0673)</rotation></viewpoint>
+<clawtip><position>(-0.6614, 0.1978, -0.4115)</position></clawtip></t>
+<t><time>69.765</time>
+<viewpoint> <position>(-0.2424, 5.0400, 3.7465)</position> <rotation>(0.0145, 0.8932, -0.4484, 0.0289)</rotation></viewpoint>
+<clawtip><position>(-0.6656, 0.1978, -0.4535)</position></clawtip></t>
+<t><time>70.284</time>
+<viewpoint> <position>(-0.2758, 5.1105, 3.7048)</position> <rotation>(0.0169, 0.8905, -0.4536, 0.0331)</rotation></viewpoint>
+<clawtip><position>(-0.6703, 0.2804, -0.3975)</position></clawtip></t>
+<t><time>70.400</time>
+<event>ClawCollidedOn</event>
+<name>apple-target1</name></t>
+<t><time>70.460</time>
+<event>ClawCollidedOn</event>
+<name>apple-target1</name></t>
+<t><time>70.791</time>
+<viewpoint> <position>(-0.3328, 5.0978, 3.6542)</position> <rotation>(0.0207, 0.8891, -0.4555, 0.0404)</rotation></viewpoint>
+<clawtip><position>(-0.6694, 0.3393, -0.3931)</position></clawtip></t>
+<t><time>71.298</time>
+<viewpoint> <position>(-0.3042, 5.0997, 3.5997)</position> <rotation>(0.0194, 0.8875, -0.4589, 0.0374)</rotation></viewpoint>
+<clawtip><position>(-0.6734, 0.3473, -0.4583)</position></clawtip></t>
+<t><time>71.804</time>
+<viewpoint> <position>(-0.2727, 5.0868, 3.5741)</position> <rotation>(0.0175, 0.8871, -0.4601, 0.0338)</rotation></viewpoint>
+<clawtip><position>(-0.6596, 0.4525, -0.4434)</position></clawtip></t>
+<t><time>71.860</time>
+<event>ClawCollidedOn</event>
+<name>apple-target1</name></t>
+<t><time>72.324</time>
+<viewpoint> <position>(-0.2691, 5.0762, 3.5637)</position> <rotation>(0.0174, 0.8870, -0.4603, 0.0334)</rotation></viewpoint>
+<clawtip><position>(-0.6301, 0.5674, -0.3225)</position></clawtip></t>
+<t><time>72.831</time>
+<viewpoint> <position>(-0.2653, 5.0770, 3.5674)</position> <rotation>(0.0171, 0.8871, -0.4601, 0.0329)</rotation></viewpoint>
+<clawtip><position>(-0.6162, 0.5828, -0.3055)</position></clawtip></t>
+<t><time>73.324</time>
+<event>GrabButtonPressed</event></t>
+<t><time>73.324</time>
+<event>ClawWillOpen</event></t>
+<t><time>73.324</time>
+<event>ClawGrabDistanceToTarget</event>
+<distance>0.1726</distance></t>
+<t><time>73.324</time>
+<keyevent>ClawWillUnderReachTarget</keyevent></t>
+<t><time>73.338</time>
+<viewpoint> <position>(-0.2212, 5.0804, 3.6002)</position> <rotation>(0.0141, 0.8881, -0.4586, 0.0273)</rotation></viewpoint>
+<clawtip><position>(-0.4616, 0.5847, -0.2925)</position></clawtip></t>
+<t><time>73.844</time>
+<viewpoint> <position>(-0.2401, 5.0923, 3.5822)</position> <rotation>(0.0154, 0.8873, -0.4601, 0.0297)</rotation></viewpoint>
+<clawtip><position>(-0.4136, 0.5850, -0.2890)</position></clawtip></t>
+<t><time>74.364</time>
+<viewpoint> <position>(-0.2427, 5.1105, 3.5659)</position> <rotation>(0.0157, 0.8864, -0.4617, 0.0301)</rotation></viewpoint>
+<clawtip><position>(-0.4080, 0.4800, -0.2886)</position></clawtip></t>
+<t><time>74.725</time>
+<event>ClawUnderReachedTarget</event></t>
+<t><time>74.871</time>
+<viewpoint> <position>(-0.2302, 5.1058, 3.5547)</position> <rotation>(0.0150, 0.8862, -0.4623, 0.0287)</rotation></viewpoint>
+<clawtip><position>(-0.4126, 0.4805, -0.2889)</position></clawtip></t>
+<t><time>75.377</time>
+<viewpoint> <position>(-0.2387, 5.0981, 3.5625)</position> <rotation>(0.0154, 0.8865, -0.4614, 0.0297)</rotation></viewpoint>
+<clawtip><position>(-0.5709, 0.5851, -0.2993)</position></clawtip></t>
+<t><time>75.885</time>
+<viewpoint> <position>(-0.2147, 5.0911, 3.5917)</position> <rotation>(0.0137, 0.8876, -0.4596, 0.0265)</rotation></viewpoint>
+<clawtip><position>(-0.6795, 0.5851, -0.3064)</position></clawtip></t>
+<t><time>76.405</time>
+<viewpoint> <position>(-0.1962, 5.0901, 3.5981)</position> <rotation>(0.0125, 0.8879, -0.4593, 0.0242)</rotation></viewpoint>
+<clawtip><position>(-0.6231, 0.6457, -0.3034)</position></clawtip></t>
+<t><time>76.765</time>
+<event>GrabButtonPressed</event></t>
+<t><time>76.765</time>
+<event>ClawWillOpen</event></t>
+<t><time>76.765</time>
+<event>ClawGrabDistanceToTarget</event>
+<distance>0.1912</distance></t>
+<t><time>76.765</time>
+<keyevent>ClawWillUnderReachTarget</keyevent></t>
+<t><time>76.912</time>
+<viewpoint> <position>(-0.1761, 5.0885, 3.6007)</position> <rotation>(0.0112, 0.8880, -0.4592, 0.0217)</rotation></viewpoint>
+<clawtip><position>(-0.4601, 0.6630, -0.2948)</position></clawtip></t>
+<t><time>77.418</time>
+<viewpoint> <position>(-0.1864, 5.0910, 3.5800)</position> <rotation>(0.0120, 0.8873, -0.4604, 0.0231)</rotation></viewpoint>
+<clawtip><position>(-0.4280, 0.6450, -0.2931)</position></clawtip></t>
+<t><time>77.925</time>
+<viewpoint> <position>(-0.1803, 5.0827, 3.5842)</position> <rotation>(0.0116, 0.8876, -0.4599, 0.0223)</rotation></viewpoint>
+<clawtip><position>(-0.4239, 0.5604, -0.2929)</position></clawtip></t>
+<t><time>78.192</time>
+<event>ClawUnderReachedTarget</event></t>
+<t><time>78.445</time>
+<viewpoint> <position>(-0.1889, 5.0774, 3.5737)</position> <rotation>(0.0122, 0.8874, -0.4602, 0.0234)</rotation></viewpoint>
+<clawtip><position>(-0.5117, 0.5887, -0.2974)</position></clawtip></t>
+<t><time>78.952</time>
+<viewpoint> <position>(-0.1673, 5.0719, 3.5887)</position> <rotation>(0.0107, 0.8880, -0.4592, 0.0207)</rotation></viewpoint>
+<clawtip><position>(-0.5890, 0.6073, -0.3014)</position></clawtip></t>
+<t><time>79.280</time>
+<event>ClawCollidedOn</event>
+<name>apple-target1</name></t>
+<t><time>79.300</time>
+<event>ClawCollidedOn</event>
+<name>apple-target1</name></t>
+<t><time>79.320</time>
+<event>ClawCollidedOn</event>
+<name>apple-target1</name></t>
+<t><time>79.320</time>
+<event>ClawCollidedOn</event>
+<name>apple-target1</name></t>
+<t><time>79.446</time>
+<event>GrabButtonPressed</event></t>
+<t><time>79.446</time>
+<event>ClawWillOpen</event></t>
+<t><time>79.446</time>
+<event>ClawGrabDistanceToTarget</event>
+<distance>-0.0209</distance></t>
+<t><time>79.446</time>
+<keyevent>ClawWillReachTarget</keyevent></t>
+<t><time>79.446</time>
+<targetinfo><tid>0</tid><distance>0.904938</distance><diameter>0.09846229</diameter><deltatime>17.9481</deltatime><erate>2</erate><trate>0</trate></targetinfo></t>
+<t><time>79.458</time>
+<viewpoint> <position>(-0.1557, 5.0737, 3.6039)</position> <rotation>(0.0099, 0.8885, -0.4584, 0.0192)</rotation></viewpoint>
+<clawtip><position>(-0.6144, 0.5196, -0.3387)</position></clawtip></t>
+<t><time>79.966</time>
+<viewpoint> <position>(-0.1900, 5.1042, 3.6350)</position> <rotation>(0.0120, 0.8887, -0.4578, 0.0232)</rotation></viewpoint>
+<clawtip><position>(-0.6168, 0.5200, -0.3490)</position></clawtip></t>
+<t><time>80.472</time>
+<viewpoint> <position>(-0.3271, 5.0945, 3.6059)</position> <rotation>(0.0207, 0.8877, -0.4582, 0.0402)</rotation></viewpoint>
+<clawtip><position>(-0.6168, 0.4151, -0.3497)</position></clawtip></t>
+<t><time>80.885</time>
+<event>TimerPause</event></t>
+<t><time>80.885</time>
+<event>ClawAttachedTarget</event></t>
+<t><time>80.885</time>
+<event>ClawGotTarget</event></t>
+<t><time>80.978</time>
+<viewpoint> <position>(-0.2772, 5.1138, 3.6229)</position> <rotation>(0.0175, 0.8879, -0.4584, 0.0339)</rotation></viewpoint>
+<clawtip><position>(-0.6173, 0.4151, -0.3431)</position></clawtip></t>
+<t><time>81.485</time>
+<viewpoint> <position>(-0.1910, 5.0906, 3.6269)</position> <rotation>(0.0120, 0.8887, -0.4577, 0.0234)</rotation></viewpoint>
+<clawtip><position>(-0.5438, 0.4151, -0.2136)</position></clawtip></t>
+<t><time>82.005</time>
+<viewpoint> <position>(-0.1458, 5.0734, 3.6320)</position> <rotation>(0.0092, 0.8893, -0.4568, 0.0178)</rotation></viewpoint>
+<clawtip><position>(-0.3941, 0.4151, -0.0462)</position></clawtip></t>
+<t><time>82.511</time>
+<viewpoint> <position>(-0.1239, 5.0719, 3.6711)</position> <rotation>(0.0077, 0.8905, -0.4546, 0.0150)</rotation></viewpoint>
+<clawtip><position>(-0.2389, 0.4151, 0.1165)</position></clawtip></t>
+<t><time>83.017</time>
+<viewpoint> <position>(-0.1197, 5.0606, 3.6982)</position> <rotation>(0.0073, 0.8916, -0.4526, 0.0144)</rotation></viewpoint>
+<clawtip><position>(-0.0818, 0.4151, 0.2787)</position></clawtip></t>
+<t><time>83.525</time>
+<viewpoint> <position>(-0.0901, 5.0535, 3.7177)</position> <rotation>(0.0055, 0.8923, -0.4512, 0.0108)</rotation></viewpoint>
+<clawtip><position>(0.0869, 0.4151, 0.4448)</position></clawtip></t>
+<t><time>84.044</time>
+<viewpoint> <position>(-0.0721, 5.0406, 3.7040)</position> <rotation>(0.0044, 0.8922, -0.4515, 0.0087)</rotation></viewpoint>
+<clawtip><position>(0.2758, 0.4151, 0.5402)</position></clawtip></t>
+<t><time>84.551</time>
+<viewpoint> <position>(-0.0636, 5.0378, 3.7000)</position> <rotation>(0.0039, 0.8922, -0.4516, 0.0077)</rotation></viewpoint>
+<clawtip><position>(0.3564, 0.4151, 0.4538)</position></clawtip></t>
+<t><time>85.058</time>
+<viewpoint> <position>(-0.1057, 5.0448, 3.7060)</position> <rotation>(0.0064, 0.8922, -0.4515, 0.0127)</rotation></viewpoint>
+<clawtip><position>(0.3704, 0.4151, 0.5339)</position></clawtip></t>
+<t><time>85.564</time>
+<viewpoint> <position>(-0.1307, 5.0737, 3.6830)</position> <rotation>(0.0081, 0.8908, -0.4540, 0.0158)</rotation></viewpoint>
+<clawtip><position>(0.3736, 0.4151, 0.5705)</position></clawtip></t>
+<t><time>86.085</time>
+<viewpoint> <position>(-0.1436, 5.0764, 3.6833)</position> <rotation>(0.0088, 0.8908, -0.4540, 0.0174)</rotation></viewpoint>
+<clawtip><position>(0.3739, 0.4151, 0.5744)</position></clawtip></t>
+<t><time>86.591</time>
+<viewpoint> <position>(-0.1333, 5.0773, 3.7071)</position> <rotation>(0.0081, 0.8915, -0.4527, 0.0160)</rotation></viewpoint>
+<clawtip><position>(0.3739, 0.4151, 0.5744)</position></clawtip></t>
+<t><time>87.044</time>
+<event>ReleaseButtonPressed</event></t>
+<t><time>87.044</time>
+<event>ClawWillRelease</event></t>
+<t><time>87.097</time>
+<viewpoint> <position>(-0.2315, 5.0787, 3.7206)</position> <rotation>(0.0140, 0.8917, -0.4516, 0.0277)</rotation></viewpoint>
+<clawtip><position>(0.3739, 0.4151, 0.5744)</position></clawtip></t>
+<t><time>87.605</time>
+<viewpoint> <position>(-0.2315, 5.0777, 3.7014)</position> <rotation>(0.0141, 0.8911, -0.4527, 0.0278)</rotation></viewpoint>
+<clawtip><position>(0.3739, 0.4151, 0.5744)</position></clawtip></t>
+<t><time>88.058</time>
+<event>ClawDetachedTarget</event></t>
+<t><time>88.058</time>
+<event>ClawReleased</event></t>
+<t><time>88.125</time>
+<viewpoint> <position>(-0.1881, 5.0671, 3.6818)</position> <rotation>(0.0116, 0.8909, -0.4535, 0.0227)</rotation></viewpoint>
+<clawtip><position>(0.3709, 0.4151, 0.5412)</position></clawtip></t>
+<t><time>88.191</time>
+<event>ReleaseButtonPressed</event></t>
+<t><time>88.191</time>
+<event>ClawWillRelease</event></t>
+<t><time>88.360</time>
+<event>Target dropped, collided on WoodenCrate</event></t>
+<t><time>88.580</time>
+<event>Target dropped, collided on Island</event></t>
+<t><time>88.631</time>
+<viewpoint> <position>(-0.1699, 5.0555, 3.6731)</position> <rotation>(0.0105, 0.8909, -0.4536, 0.0206)</rotation></viewpoint>
+<clawtip><position>(0.3677, 0.4974, 0.5111)</position></clawtip></t>
+<t><time>88.658</time>
+<event>ClawCompetedTarget</event></t>
+<t><time>88.658</time>
+<event>TimerON</event></t>
+<t><time>88.658</time>
+<keyevent>ActivatedTargetNum</keyevent>
+<tid>1</tid>
+<position>(-0.1272, 0.3017, -0.5274)</position>
+<diameter>(0.0846, 0.0846, 0.0846)</diameter>
+<distance>1.1675</distance>
+</t>
+<t><time>89.137</time>
+<viewpoint> <position>(-0.1667, 5.0534, 3.6607)</position> <rotation>(0.0103, 0.8906, -0.4543, 0.0203)</rotation></viewpoint>
+<clawtip><position>(0.3410, 0.5201, 0.4826)</position></clawtip></t>
+<t><time>89.645</time>
+<viewpoint> <position>(-0.1989, 5.0572, 3.6520)</position> <rotation>(0.0124, 0.8902, -0.4548, 0.0242)</rotation></viewpoint>
+<clawtip><position>(0.1704, 0.5201, 0.3730)</position></clawtip></t>
+<t><time>90.165</time>
+<viewpoint> <position>(-0.3307, 5.0550, 3.6328)</position> <rotation>(0.0207, 0.8894, -0.4550, 0.0404)</rotation></viewpoint>
+<clawtip><position>(-0.0496, 0.5201, 0.2763)</position></clawtip></t>
+<t><time>90.671</time>
+<viewpoint> <position>(-0.2858, 5.0655, 3.6350)</position> <rotation>(0.0179, 0.8893, -0.4556, 0.0349)</rotation></viewpoint>
+<clawtip><position>(-0.1975, 0.5201, 0.1090)</position></clawtip></t>
+<t><time>91.178</time>
+<viewpoint> <position>(-0.2410, 5.0648, 3.6435)</position> <rotation>(0.0150, 0.8897, -0.4554, 0.0294)</rotation></viewpoint>
+<clawtip><position>(-0.2299, 0.5201, -0.1066)</position></clawtip></t>
+<t><time>91.684</time>
+<viewpoint> <position>(-0.2191, 5.0604, 3.6582)</position> <rotation>(0.0136, 0.8903, -0.4545, 0.0266)</rotation></viewpoint>
+<clawtip><position>(-0.1981, 0.4765, -0.3374)</position></clawtip></t>
+<t><time>92.000</time>
+<event>ClawCollidedOn</event>
+<name>apple-target2</name></t>
+<t><time>92.020</time>
+<event>ClawCollidedOn</event>
+<name>apple-target2</name></t>
+<t><time>92.020</time>
+<event>ClawCollidedOn</event>
+<name>apple-target2</name></t>
+<t><time>92.040</time>
+<event>ClawCollidedOn</event>
+<name>apple-target2</name></t>
+<t><time>92.205</time>
+<viewpoint> <position>(-0.3657, 4.9990, 3.6383)</position> <rotation>(0.0227, 0.8906, -0.4520, 0.0446)</rotation></viewpoint>
+<clawtip><position>(-0.1551, 0.3733, -0.4803)</position></clawtip></t>
+<t><time>92.711</time>
+<viewpoint> <position>(-0.5275, 4.9320, 3.7296)</position> <rotation>(0.0311, 0.8942, -0.4422, 0.0629)</rotation></viewpoint>
+<clawtip><position>(-0.1551, 0.3733, -0.4804)</position></clawtip></t>
+<t><time>93.218</time>
+<viewpoint> <position>(-0.4914, 4.9003, 4.1553)</position> <rotation>(0.0246, 0.9065, -0.4180, 0.0534)</rotation></viewpoint>
+<clawtip><position>(-0.1551, 0.4431, -0.4804)</position></clawtip></t>
+<t><time>93.725</time>
+<viewpoint> <position>(-0.5011, 4.8235, 4.3193)</position> <rotation>(0.0235, 0.9121, -0.4058, 0.0527)</rotation></viewpoint>
+<clawtip><position>(-0.1499, 0.4450, -0.4798)</position></clawtip></t>
+<t><time>94.004</time>
+<event>GrabButtonPressed</event></t>
+<t><time>94.004</time>
+<event>ClawWillOpen</event></t>
+<t><time>94.004</time>
+<event>ClawGrabDistanceToTarget</event>
+<distance>0.0581</distance></t>
+<t><time>94.004</time>
+<keyevent>ClawWillReachTarget</keyevent></t>
+<t><time>94.004</time>
+<targetinfo><tid>1</tid><distance>1.167488</distance><diameter>0.08457541</diameter><deltatime>5.346466</deltatime><erate>2</erate><trate>0</trate></targetinfo></t>
+<t><time>94.244</time>
+<viewpoint> <position>(-0.4902, 4.7695, 4.4236)</position> <rotation>(0.0220, 0.9157, -0.3980, 0.0506)</rotation></viewpoint>
+<clawtip><position>(-0.1490, 0.4279, -0.4797)</position></clawtip></t>
+<t><time>94.751</time>
+<viewpoint> <position>(-0.5255, 4.7272, 4.5287)</position> <rotation>(0.0226, 0.9188, -0.3904, 0.0531)</rotation></viewpoint>
+<clawtip><position>(-0.1489, 0.3787, -0.4797)</position></clawtip></t>
+<t><time>95.258</time>
+<viewpoint> <position>(-0.5471, 4.7108, 4.5535)</position> <rotation>(0.0232, 0.9197, -0.3882, 0.0550)</rotation></viewpoint>
+<clawtip><position>(-0.1489, 0.3208, -0.4797)</position></clawtip></t>
+<t><time>95.444</time>
+<event>TimerPause</event></t>
+<t><time>95.444</time>
+<event>ClawAttachedTarget</event></t>
+<t><time>95.444</time>
+<event>ClawGotTarget</event></t>
+<t><time>95.765</time>
+<viewpoint> <position>(-0.5545, 4.7477, 4.5326)</position> <rotation>(0.0238, 0.9184, -0.3909, 0.0560)</rotation></viewpoint>
+<clawtip><position>(-0.1530, 0.3208, -0.4455)</position></clawtip></t>
+<t><time>96.285</time>
+<viewpoint> <position>(-0.2169, 5.0297, 4.1546)</position> <rotation>(0.0111, 0.9045, -0.4257, 0.0236)</rotation></viewpoint>
+<clawtip><position>(-0.1747, 0.3208, -0.2469)</position></clawtip></t>
+<t><time>96.791</time>
+<viewpoint> <position>(0.8873, 4.9126, 3.9323)</position> <rotation>(-0.0473, 0.8984, -0.4250, -0.1001)</rotation></viewpoint>
+<clawtip><position>(-0.1711, 0.3208, -0.0225)</position></clawtip></t>
+<t><time>97.298</time>
+<viewpoint> <position>(1.1869, 4.8769, 3.7930)</position> <rotation>(-0.0648, 0.8929, -0.4242, -0.1364)</rotation></viewpoint>
+<clawtip><position>(-0.0963, 0.3208, 0.1854)</position></clawtip></t>
+<t><time>97.805</time>
+<viewpoint> <position>(0.4804, 4.9844, 3.7062)</position> <rotation>(-0.0288, 0.8925, -0.4463, -0.0576)</rotation></viewpoint>
+<clawtip><position>(0.1044, 0.3208, 0.2775)</position></clawtip></t>
+<t><time>98.311</time>
+<viewpoint> <position>(-0.3947, 5.0190, 3.7318)</position> <rotation>(0.0236, 0.8929, -0.4473, 0.0471)</rotation></viewpoint>
+<clawtip><position>(0.3144, 0.3208, 0.3642)</position></clawtip></t>
+<t><time>98.485</time>
+<event>ReleaseButtonPressed</event></t>
+<t><time>98.485</time>
+<event>ClawWillRelease</event></t>
+<t><time>98.604</time>
+<event>ClawDetachedTarget</event></t>
+<t><time>98.604</time>
+<event>ClawReleased</event></t>
+<t><time>98.818</time>
+<viewpoint> <position>(-0.6267, 4.8748, 3.8850)</position> <rotation>(0.0344, 0.8994, -0.4298, 0.0721)</rotation></viewpoint>
+<clawtip><position>(0.3975, 0.3208, 0.4121)</position></clawtip></t>
+<t><time>98.960</time>
+<event>Target dropped, collided on WoodenCrate</event></t>
+<t><time>99.060</time>
+<event>Target dropped, collided on WoodenCrate</event></t>
+<t><time>99.218</time>
+<event>ClawCompetedTarget</event></t>
+<t><time>99.218</time>
+<event>TimerON</event></t>
+<t><time>99.218</time>
+<keyevent>ActivatedTargetNum</keyevent>
+<tid>2</tid>
+<position>(0.3719, 0.2047, 0.0528)</position>
+<diameter>(0.0502, 0.0502, 0.0502)</diameter>
+<distance>0.4216</distance>
+</t>
+<t><time>99.325</time>
+<viewpoint> <position>(-0.6976, 4.6496, 4.3020)</position> <rotation>(0.0319, 0.9146, -0.3963, 0.0737)</rotation></viewpoint>
+<clawtip><position>(0.4079, 0.4258, 0.4181)</position></clawtip></t>
+<t><time>99.845</time>
+<viewpoint> <position>(-0.6331, 4.6497, 4.3185)</position> <rotation>(0.0289, 0.9153, -0.3962, 0.0667)</rotation></viewpoint>
+<clawtip><position>(0.3231, 0.4258, 0.3423)</position></clawtip></t>
+<t><time>100.178</time>
+<event>GrabButtonPressed</event></t>
+<t><time>100.178</time>
+<event>ClawWillOpen</event></t>
+<t><time>100.178</time>
+<event>ClawGrabDistanceToTarget</event>
+<distance>0.2830</distance></t>
+<t><time>100.178</time>
+<keyevent>ClawWillUnderReachTarget</keyevent></t>
+<t><time>100.351</time>
+<viewpoint> <position>(-0.5335, 4.6625, 4.2960)</position> <rotation>(0.0247, 0.9149, -0.3990, 0.0566)</rotation></viewpoint>
+<clawtip><position>(0.2481, 0.4258, 0.2743)</position></clawtip></t>
+<t><time>100.857</time>
+<viewpoint> <position>(-0.5680, 4.4703, 4.3968)</position> <rotation>(0.0247, 0.9212, -0.3838, 0.0593)</rotation></viewpoint>
+<clawtip><position>(0.2386, 0.3986, 0.2657)</position></clawtip></t>
+<t><time>101.365</time>
+<viewpoint> <position>(-0.5898, 4.6550, 4.3120)</position> <rotation>(0.0270, 0.9152, -0.3972, 0.0623)</rotation></viewpoint>
+<clawtip><position>(0.2374, 0.3209, 0.2646)</position></clawtip></t>
+<t><time>101.591</time>
+<event>ClawUnderReachedTarget</event></t>
+<t><time>101.885</time>
+<viewpoint> <position>(-0.3802, 5.1133, 3.8569)</position> <rotation>(0.0219, 0.8945, -0.4444, 0.0440)</rotation></viewpoint>
+<clawtip><position>(0.2373, 0.3631, 0.2645)</position></clawtip></t>
+<t><time>102.391</time>
+<viewpoint> <position>(-0.2540, 5.1239, 3.6639)</position> <rotation>(0.0158, 0.8890, -0.4566, 0.0308)</rotation></viewpoint>
+<clawtip><position>(0.2077, 0.4259, 0.2880)</position></clawtip></t>
+<t><time>102.578</time>
+<event>GrabButtonPressed</event></t>
+<t><time>102.578</time>
+<event>ClawWillOpen</event></t>
+<t><time>102.578</time>
+<event>ClawGrabDistanceToTarget</event>
+<distance>0.3525</distance></t>
+<t><time>102.578</time>
+<keyevent>ClawWillUnderReachTarget</keyevent></t>
+<t><time>102.897</time>
+<viewpoint> <position>(-0.2778, 5.0858, 3.6145)</position> <rotation>(0.0176, 0.8883, -0.4577, 0.0341)</rotation></viewpoint>
+<clawtip><position>(0.1441, 0.4259, 0.3386)</position></clawtip></t>
+<t><time>103.405</time>
+<viewpoint> <position>(-0.4890, 5.0485, 3.7005)</position> <rotation>(0.0296, 0.8910, -0.4493, 0.0586)</rotation></viewpoint>
+<clawtip><position>(0.1359, 0.3505, 0.3453)</position></clawtip></t>
+<t><time>103.925</time>
+<viewpoint> <position>(-0.8039, 4.6269, 4.2352)</position> <rotation>(0.0374, 0.9129, -0.3972, 0.0859)</rotation></viewpoint>
+<clawtip><position>(0.1349, 0.3209, 0.3460)</position></clawtip></t>
+<t><time>103.991</time>
+<event>ClawUnderReachedTarget</event></t>
+<t><time>104.431</time>
+<viewpoint> <position>(-1.4486, 4.1998, 4.6122)</position> <rotation>(0.0531, 0.9259, -0.3460, 0.1420)</rotation></viewpoint>
+<clawtip><position>(0.1348, 0.4259, 0.3461)</position></clawtip></t>
+<t><time>104.591</time>
+<event>GrabButtonPressed</event></t>
+<t><time>104.591</time>
+<event>ClawWillOpen</event></t>
+<t><time>104.591</time>
+<event>ClawNoTarget</event></t>
+<t><time>104.591</time>
+<keyevent>ClawWillUnderReachTarget</keyevent></t>
+<t><time>104.938</time>
+<viewpoint> <position>(-1.9753, 4.1146, 4.4801)</position> <rotation>(0.0706, 0.9194, -0.3350, 0.1937)</rotation></viewpoint>
+<clawtip><position>(0.1348, 0.4259, 0.3461)</position></clawtip></t>
+<t><time>105.445</time>
+<viewpoint> <position>(-2.4155, 4.4655, 3.6564)</position> <rotation>(0.1114, 0.8831, -0.3707, 0.2653)</rotation></viewpoint>
+<clawtip><position>(0.1348, 0.4259, 0.3461)</position></clawtip></t>
+<t><time>105.791</time>
+<event>GrabButtonPressed</event></t>
+<t><time>105.791</time>
+<event>ClawWillOpen</event></t>
+<t><time>105.791</time>
+<event>ClawGrabDistanceToTarget</event>
+<distance>0.3947</distance></t>
+<t><time>105.791</time>
+<keyevent>ClawWillUnderReachTarget</keyevent></t>
+<t><time>105.965</time>
+<viewpoint> <position>(-2.4534, 4.7917, 3.1341)</position> <rotation>(0.1385, 0.8558, -0.4017, 0.2951)</rotation></viewpoint>
+<clawtip><position>(0.1348, 0.4259, 0.3461)</position></clawtip></t>
+<t><time>106.471</time>
+<viewpoint> <position>(-2.3878, 4.8212, 3.0310)</position> <rotation>(0.1418, 0.8516, -0.4092, 0.2952)</rotation></viewpoint>
+<clawtip><position>(0.1348, 0.3987, 0.3461)</position></clawtip></t>
+<t><time>106.978</time>
+<viewpoint> <position>(-1.7314, 4.9370, 3.3237)</position> <rotation>(0.1057, 0.8700, -0.4319, 0.2130)</rotation></viewpoint>
+<clawtip><position>(0.1380, 0.3210, 0.3403)</position></clawtip></t>
+<t><time>107.218</time>
+<event>ClawUnderReachedTarget</event></t>
+<t><time>107.485</time>
+<viewpoint> <position>(-0.3563, 5.0702, 3.6432)</position> <rotation>(0.0222, 0.8893, -0.4548, 0.0434)</rotation></viewpoint>
+<clawtip><position>(0.2009, 0.3559, 0.1805)</position></clawtip></t>
+<t><time>107.540</time>
+<event>ClawCollidedOn</event>
+<name>Island</name></t>
+<t><time>107.760</time>
+<event>ClawCollidedOn</event>
+<name>Island</name></t>
+<t><time>108.004</time>
+<viewpoint> <position>(0.0596, 5.0695, 3.8197)</position> <rotation>(-0.0035, 0.8949, -0.4462, -0.0070)</rotation></viewpoint>
+<clawtip><position>(0.2900, 0.4268, 0.1565)</position></clawtip></t>
+<t><time>108.511</time>
+<viewpoint> <position>(-0.0299, 5.0600, 3.9196)</position> <rotation>(0.0017, 0.8979, -0.4402, 0.0034)</rotation></viewpoint>
+<clawtip><position>(0.3919, 0.4271, 0.1591)</position></clawtip></t>
+<t><time>108.551</time>
+<event>GrabButtonPressed</event></t>
+<t><time>108.551</time>
+<event>ClawWillOpen</event></t>
+<t><time>108.551</time>
+<event>ClawGrabDistanceToTarget</event>
+<distance>0.1605</distance></t>
+<t><time>108.551</time>
+<keyevent>ClawWillUnderReachTarget</keyevent></t>
+<t><time>109.017</time>
+<viewpoint> <position>(0.1756, 5.0389, 3.7483)</position> <rotation>(-0.0105, 0.8934, -0.4486, -0.0209)</rotation></viewpoint>
+<clawtip><position>(0.4209, 0.4272, 0.1594)</position></clawtip></t>
+<t><time>109.525</time>
+<viewpoint> <position>(0.4029, 5.0252, 3.7573)</position> <rotation>(-0.0238, 0.8934, -0.4460, -0.0478)</rotation></viewpoint>
+<clawtip><position>(0.4245, 0.3229, 0.1594)</position></clawtip></t>
+<t><time>109.978</time>
+<event>ClawUnderReachedTarget</event></t>
+<t><time>110.045</time>
+<viewpoint> <position>(0.2439, 5.0351, 3.6728)</position> <rotation>(-0.0150, 0.8912, -0.4524, -0.0296)</rotation></viewpoint>
+<clawtip><position>(0.4140, 0.3222, 0.1317)</position></clawtip></t>
+<t><time>110.551</time>
+<viewpoint> <position>(0.1862, 5.0374, 3.6338)</position> <rotation>(-0.0117, 0.8901, -0.4551, -0.0228)</rotation></viewpoint>
+<clawtip><position>(0.3744, 0.4177, 0.0506)</position></clawtip></t>
+<t><time>110.965</time>
+<event>GrabButtonPressed</event></t>
+<t><time>110.965</time>
+<event>ClawWillOpen</event></t>
+<t><time>110.965</time>
+<event>ClawGrabDistanceToTarget</event>
+<distance>0.0213</distance></t>
+<t><time>110.965</time>
+<keyevent>ClawWillReachTarget</keyevent></t>
+<t><time>110.965</time>
+<targetinfo><tid>2</tid><distance>0.421619</distance><diameter>0.05019375</diameter><deltatime>11.74644</deltatime><erate>6</erate><trate>0</trate></targetinfo></t>
+<t><time>111.058</time>
+<viewpoint> <position>(0.2823, 5.0265, 3.6227)</position> <rotation>(-0.0177, 0.8898, -0.4547, -0.0346)</rotation></viewpoint>
+<clawtip><position>(0.3688, 0.3193, 0.0397)</position></clawtip></t>
+<t><time>111.564</time>
+<viewpoint> <position>(0.3013, 5.0291, 3.6153)</position> <rotation>(-0.0189, 0.8895, -0.4551, -0.0370)</rotation></viewpoint>
+<clawtip><position>(0.3681, 0.2965, 0.0383)</position></clawtip></t>
+<t><time>112.084</time>
+<viewpoint> <position>(0.2782, 5.0234, 3.5934)</position> <rotation>(-0.0176, 0.8890, -0.4563, -0.0344)</rotation></viewpoint>
+<clawtip><position>(0.3680, 0.1961, 0.0382)</position></clawtip></t>
+<t><time>112.418</time>
+<event>TimerPause</event></t>
+<t><time>112.418</time>
+<event>ClawAttachedTarget</event></t>
+<t><time>112.418</time>
+<event>ClawGotTarget</event></t>
+<t><time>112.591</time>
+<viewpoint> <position>(0.2822, 5.0266, 3.6032)</position> <rotation>(-0.0178, 0.8892, -0.4558, -0.0348)</rotation></viewpoint>
+<clawtip><position>(0.3695, 0.1961, 0.0575)</position></clawtip></t>
+<t><time>113.098</time>
+<viewpoint> <position>(0.2603, 5.0227, 3.6048)</position> <rotation>(-0.0164, 0.8894, -0.4557, -0.0321)</rotation></viewpoint>
+<clawtip><position>(0.3829, 0.1961, 0.2330)</position></clawtip></t>
+<t><time>113.605</time>
+<event>ReleaseButtonPressed</event></t>
+<t><time>113.605</time>
+<event>ClawWillRelease</event></t>
+<t><time>113.605</time>
+<viewpoint> <position>(0.2650, 5.0173, 3.6000)</position> <rotation>(-0.0168, 0.8893, -0.4558, -0.0327)</rotation></viewpoint>
+<clawtip><position>(0.3970, 0.1961, 0.4065)</position></clawtip></t>
+<t><time>114.125</time>
+<viewpoint> <position>(-0.0303, 5.0421, 3.5416)</position> <rotation>(0.0020, 0.8873, -0.4611, 0.0038)</rotation></viewpoint>
+<clawtip><position>(0.3995, 0.1961, 0.4339)</position></clawtip></t>
+<t><time>114.565</time>
+<event>ClawDetachedTarget</event></t>
+<t><time>114.565</time>
+<event>ClawReleased</event></t>
+<t><time>114.631</time>
+<viewpoint> <position>(-0.2348, 5.0439, 3.5289)</position> <rotation>(0.0153, 0.8867, -0.4612, 0.0295)</rotation></viewpoint>
+<clawtip><position>(0.3997, 0.1961, 0.4360)</position></clawtip></t>
+<t><time>114.920</time>
+<event>Target dropped, collided on WoodenCrate</event></t>
+<t><time>114.940</time>
+<event>Target dropped, collided on WoodenCrate</event></t>
+<t><time>115.138</time>
+<viewpoint> <position>(-0.2862, 5.0334, 3.5275)</position> <rotation>(0.0186, 0.8867, -0.4605, 0.0359)</rotation></viewpoint>
+<clawtip><position>(0.3997, 0.2731, 0.4360)</position></clawtip></t>
+<t><time>115.178</time>
+<event>ClawCompetedTarget</event></t>
+<t><time>115.178</time>
+<event>TimerON</event></t>
+<t><time>115.178</time>
+<keyevent>ActivatedTargetNum</keyevent>
+<tid>3</tid>
+<position>(0.4456, 0.5437, -0.3859)</position>
+<diameter>(0.0681, 0.0681, 0.0681)</diameter>
+<distance>0.8632</distance>
+</t>
+<t><time>115.340</time>
+<event>Target dropped, collided on WoodenCrate</event></t>
+<t><time>115.645</time>
+<viewpoint> <position>(-0.2467, 5.0367, 3.5203)</position> <rotation>(0.0161, 0.8865, -0.4613, 0.0310)</rotation></viewpoint>
+<clawtip><position>(0.3782, 0.3011, 0.4345)</position></clawtip></t>
+<t><time>116.165</time>
+<viewpoint> <position>(-0.2008, 5.2256, 3.6592)</position> <rotation>(0.0126, 0.8868, -0.4613, 0.0243)</rotation></viewpoint>
+<clawtip><position>(0.2585, 0.3011, 0.4265)</position></clawtip></t>
+<t><time>116.671</time>
+<viewpoint> <position>(0.0851, 5.4567, 4.0100)</position> <rotation>(-0.0048, 0.8922, -0.4515, -0.0095)</rotation></viewpoint>
+<clawtip><position>(0.2399, 0.3011, 0.4252)</position></clawtip></t>
+<t><time>117.177</time>
+<viewpoint> <position>(0.4557, 5.4021, 3.9327)</position> <rotation>(-0.0261, 0.8905, -0.4514, -0.0514)</rotation></viewpoint>
+<clawtip><position>(0.2388, 0.3011, 0.4252)</position></clawtip></t>
+<t><time>117.685</time>
+<viewpoint> <position>(-0.6836, 5.2989, 4.6433)</position> <rotation>(0.0300, 0.9094, -0.4094, 0.0666)</rotation></viewpoint>
+<clawtip><position>(0.2388, 0.3011, 0.4252)</position></clawtip></t>
+<t><time>118.191</time>
+<viewpoint> <position>(-1.2197, 5.2774, 4.8808)</position> <rotation>(0.0481, 0.9124, -0.3908, 0.1123)</rotation></viewpoint>
+<clawtip><position>(0.2388, 0.3011, 0.4252)</position></clawtip></t>
+<t><time>118.698</time>
+<viewpoint> <position>(-0.9780, 5.2948, 4.9832)</position> <rotation>(0.0380, 0.9155, -0.3905, 0.0890)</rotation></viewpoint>
+<clawtip><position>(0.2388, 0.3011, 0.4252)</position></clawtip></t>
+<t><time>119.204</time>
+<viewpoint> <position>(-0.3074, 5.2962, 4.9276)</position> <rotation>(0.0124, 0.9166, -0.3986, 0.0286)</rotation></viewpoint>
+<clawtip><position>(0.2388, 0.3011, 0.4252)</position></clawtip></t>
+<t><time>119.725</time>
+<viewpoint> <position>(0.0389, 5.2556, 4.9717)</position> <rotation>(-0.0015, 0.9185, -0.3955, -0.0036)</rotation></viewpoint>
+<clawtip><position>(0.2388, 0.3011, 0.4252)</position></clawtip></t>
+<t><time>120.231</time>
+<viewpoint> <position>(0.0996, 5.2439, 5.1446)</position> <rotation>(-0.0037, 0.9220, -0.3870, -0.0089)</rotation></viewpoint>
+<clawtip><position>(0.2388, 0.3011, 0.4252)</position></clawtip></t>
+<t><time>120.738</time>
+<viewpoint> <position>(0.2433, 5.2485, 5.1327)</position> <rotation>(-0.0092, 0.9216, -0.3875, -0.0218)</rotation></viewpoint>
+<clawtip><position>(0.2388, 0.3011, 0.4252)</position></clawtip></t>
+<t><time>121.245</time>
+<viewpoint> <position>(0.1132, 5.2616, 5.0619)</position> <rotation>(-0.0044, 0.9201, -0.3915, -0.0103)</rotation></viewpoint>
+<clawtip><position>(0.2388, 0.3011, 0.4252)</position></clawtip></t>
+<t><time>121.765</time>
+<viewpoint> <position>(-0.0633, 5.2082, 5.0384)</position> <rotation>(0.0025, 0.9207, -0.3903, 0.0058)</rotation></viewpoint>
+<clawtip><position>(0.2388, 0.3011, 0.4252)</position></clawtip></t>
+<t><time>122.271</time>
+<viewpoint> <position>(-0.3058, 5.3508, 4.9896)</position> <rotation>(0.0122, 0.9168, -0.3981, 0.0281)</rotation></viewpoint>
+<clawtip><position>(0.2388, 0.3011, 0.4252)</position></clawtip></t>
+<t><time>122.778</time>
+<viewpoint> <position>(-0.3977, 5.4930, 5.1282)</position> <rotation>(0.0154, 0.9168, -0.3975, 0.0355)</rotation></viewpoint>
+<clawtip><position>(0.2388, 0.3011, 0.4252)</position></clawtip></t>
+<t><time>123.285</time>
+<viewpoint> <position>(-0.0451, 5.5259, 5.2510)</position> <rotation>(0.0017, 0.9189, -0.3944, 0.0039)</rotation></viewpoint>
+<clawtip><position>(0.2388, 0.3011, 0.4252)</position></clawtip></t>
+<t><time>123.805</time>
+<viewpoint> <position>(-0.0966, 5.5244, 5.2216)</position> <rotation>(0.0037, 0.9184, -0.3956, 0.0085)</rotation></viewpoint>
+<clawtip><position>(0.2388, 0.3011, 0.4252)</position></clawtip></t>
+<t><time>124.311</time>
+<viewpoint> <position>(-0.5208, 5.5451, 4.9664)</position> <rotation>(0.0212, 0.9123, -0.4061, 0.0477)</rotation></viewpoint>
+<clawtip><position>(0.2388, 0.3011, 0.4252)</position></clawtip></t>
+<t><time>124.818</time>
+<viewpoint> <position>(-0.4014, 5.5498, 4.9012)</position> <rotation>(0.0168, 0.9112, -0.4100, 0.0372)</rotation></viewpoint>
+<clawtip><position>(0.2388, 0.3011, 0.4252)</position></clawtip></t>
+<t><time>125.325</time>
+<viewpoint> <position>(-0.0066, 5.5070, 5.0380)</position> <rotation>(0.0003, 0.9151, -0.4031, 0.0006)</rotation></viewpoint>
+<clawtip><position>(0.2388, 0.3011, 0.4252)</position></clawtip></t>
+<t><time>125.844</time>
+<viewpoint> <position>(0.1786, 5.3192, 4.9548)</position> <rotation>(-0.0072, 0.9169, -0.3988, -0.0165)</rotation></viewpoint>
+<clawtip><position>(0.2388, 0.3011, 0.4252)</position></clawtip></t>
+<t><time>126.351</time>
+<viewpoint> <position>(-0.0878, 5.2082, 4.7152)</position> <rotation>(0.0038, 0.9141, -0.4054, 0.0085)</rotation></viewpoint>
+<clawtip><position>(0.2388, 0.3011, 0.4252)</position></clawtip></t>
+<t><time>126.858</time>
+<viewpoint> <position>(-0.6162, 5.2077, 4.4537)</position> <rotation>(0.0286, 0.9071, -0.4153, 0.0625)</rotation></viewpoint>
+<clawtip><position>(0.2388, 0.3011, 0.4252)</position></clawtip></t>
+<t><time>127.365</time>
+<viewpoint> <position>(-0.3266, 5.1568, 4.6931)</position> <rotation>(0.0140, 0.9143, -0.4035, 0.0318)</rotation></viewpoint>
+<clawtip><position>(0.2388, 0.3011, 0.4252)</position></clawtip></t>
+<t><time>127.885</time>
+<viewpoint> <position>(0.0962, 5.1559, 4.8813)</position> <rotation>(-0.0039, 0.9185, -0.3952, -0.0091)</rotation></viewpoint>
+<clawtip><position>(0.2388, 0.3011, 0.4252)</position></clawtip></t>
+<t><time>128.391</time>
+<viewpoint> <position>(-0.0169, 5.1662, 4.7818)</position> <rotation>(0.0007, 0.9163, -0.4004, 0.0016)</rotation></viewpoint>
+<clawtip><position>(0.2388, 0.3011, 0.4252)</position></clawtip></t>
+<t><time>128.898</time>
+<viewpoint> <position>(-0.3804, 5.1689, 4.5816)</position> <rotation>(0.0170, 0.9115, -0.4092, 0.0378)</rotation></viewpoint>
+<clawtip><position>(0.2388, 0.3011, 0.4252)</position></clawtip></t>
+<t><time>129.405</time>
+<viewpoint> <position>(-0.1555, 5.1269, 4.9051)</position> <rotation>(0.0062, 0.9195, -0.3927, 0.0146)</rotation></viewpoint>
+<clawtip><position>(0.2388, 0.3011, 0.4252)</position></clawtip></t>
+<t><time>129.925</time>
+<viewpoint> <position>(0.1871, 5.1294, 5.0395)</position> <rotation>(-0.0072, 0.9221, -0.3865, -0.0171)</rotation></viewpoint>
+<clawtip><position>(0.2388, 0.3011, 0.4252)</position></clawtip></t>
+<t><time>130.431</time>
+<viewpoint> <position>(0.1433, 5.1416, 4.9776)</position> <rotation>(-0.0056, 0.9207, -0.3900, -0.0133)</rotation></viewpoint>
+<clawtip><position>(0.2388, 0.3011, 0.4252)</position></clawtip></t>
+<t><time>130.938</time>
+<viewpoint> <position>(-0.2959, 5.1443, 4.7358)</position> <rotation>(0.0125, 0.9155, -0.4010, 0.0286)</rotation></viewpoint>
+<clawtip><position>(0.2388, 0.3011, 0.4252)</position></clawtip></t>
+<t><time>131.445</time>
+<viewpoint> <position>(-0.2994, 5.1439, 4.7678)</position> <rotation>(0.0125, 0.9162, -0.3995, 0.0287)</rotation></viewpoint>
+<clawtip><position>(0.2388, 0.3011, 0.4252)</position></clawtip></t>
+<t><time>131.965</time>
+<viewpoint> <position>(0.1442, 5.1021, 4.9770)</position> <rotation>(-0.0056, 0.9214, -0.3883, -0.0133)</rotation></viewpoint>
+<clawtip><position>(0.2388, 0.3011, 0.4252)</position></clawtip></t>
+<t><time>132.471</time>
+<viewpoint> <position>(0.1946, 5.1169, 5.0242)</position> <rotation>(-0.0075, 0.9220, -0.3867, -0.0178)</rotation></viewpoint>
+<clawtip><position>(0.2388, 0.3011, 0.4252)</position></clawtip></t>
+<t><time>132.977</time>
+<viewpoint> <position>(-0.0136, 5.1194, 4.9512)</position> <rotation>(0.0005, 0.9207, -0.3904, 0.0013)</rotation></viewpoint>
+<clawtip><position>(0.2388, 0.3011, 0.4252)</position></clawtip></t>
+<t><time>133.485</time>
+<viewpoint> <position>(-0.2726, 5.1411, 4.8070)</position> <rotation>(0.0113, 0.9171, -0.3976, 0.0260)</rotation></viewpoint>
+<clawtip><position>(0.2388, 0.3011, 0.4252)</position></clawtip></t>
+<t><time>134.005</time>
+<viewpoint> <position>(-0.2860, 5.1322, 4.7663)</position> <rotation>(0.0120, 0.9164, -0.3991, 0.0275)</rotation></viewpoint>
+<clawtip><position>(0.2388, 0.3011, 0.4252)</position></clawtip></t>
+<t><time>134.511</time>
+<viewpoint> <position>(-0.2778, 5.1384, 4.7595)</position> <rotation>(0.0117, 0.9162, -0.3997, 0.0267)</rotation></viewpoint>
+<clawtip><position>(0.2388, 0.3011, 0.4252)</position></clawtip></t>
+<t><time>135.018</time>
+<viewpoint> <position>(-0.2749, 5.1329, 4.7820)</position> <rotation>(0.0114, 0.9168, -0.3984, 0.0263)</rotation></viewpoint>
+<clawtip><position>(0.2388, 0.3011, 0.4252)</position></clawtip></t>
+<t><time>135.525</time>
+<viewpoint> <position>(-0.2626, 5.1375, 4.7887)</position> <rotation>(0.0109, 0.9168, -0.3984, 0.0251)</rotation></viewpoint>
+<clawtip><position>(0.2388, 0.3011, 0.4252)</position></clawtip></t>
+<t><time>136.031</time>
+<viewpoint> <position>(-0.3029, 5.1376, 4.7640)</position> <rotation>(0.0127, 0.9162, -0.3994, 0.0291)</rotation></viewpoint>
+<clawtip><position>(0.2388, 0.3011, 0.4252)</position></clawtip></t>
+<t><time>136.538</time>
+<viewpoint> <position>(-0.3083, 5.1351, 4.7777)</position> <rotation>(0.0128, 0.9166, -0.3986, 0.0295)</rotation></viewpoint>
+<clawtip><position>(0.2388, 0.3011, 0.4252)</position></clawtip></t>
+<t><time>137.044</time>
+<viewpoint> <position>(-0.2921, 5.1366, 4.7506)</position> <rotation>(0.0123, 0.9160, -0.4000, 0.0281)</rotation></viewpoint>
+<clawtip><position>(0.2388, 0.3011, 0.4252)</position></clawtip></t>
+<t><time>137.565</time>
+<viewpoint> <position>(-0.2763, 5.1283, 4.7115)</position> <rotation>(0.0118, 0.9154, -0.4016, 0.0268)</rotation></viewpoint>
+<clawtip><position>(0.2388, 0.3011, 0.4252)</position></clawtip></t>
+<t><time>138.071</time>
+<viewpoint> <position>(-0.2738, 5.1283, 4.6998)</position> <rotation>(0.0117, 0.9151, -0.4022, 0.0266)</rotation></viewpoint>
+<clawtip><position>(0.2388, 0.3011, 0.4252)</position></clawtip></t>
+<t><time>138.578</time>
+<viewpoint> <position>(-0.2697, 5.1313, 4.7020)</position> <rotation>(0.0115, 0.9151, -0.4022, 0.0262)</rotation></viewpoint>
+<clawtip><position>(0.2388, 0.3011, 0.4252)</position></clawtip></t>
+<t><time>139.085</time>
+<viewpoint> <position>(-0.2727, 5.1281, 4.7013)</position> <rotation>(0.0117, 0.9151, -0.4021, 0.0265)</rotation></viewpoint>
+<clawtip><position>(0.2388, 0.3011, 0.4252)</position></clawtip></t>
+<t><time>139.605</time>
+<viewpoint> <position>(-0.2707, 5.1310, 4.7119)</position> <rotation>(0.0115, 0.9153, -0.4017, 0.0263)</rotation></viewpoint>
+<clawtip><position>(0.2388, 0.3011, 0.4252)</position></clawtip></t>
+<t><time>140.111</time>
+<viewpoint> <position>(-0.1962, 5.1578, 4.7719)</position> <rotation>(0.0082, 0.9162, -0.4003, 0.0188)</rotation></viewpoint>
+<clawtip><position>(0.2388, 0.3011, 0.4252)</position></clawtip></t>
+<t><time>140.618</time>
+<viewpoint> <position>(0.0285, 5.1475, 4.9015)</position> <rotation>(-0.0011, 0.9191, -0.3940, -0.0027)</rotation></viewpoint>
+<clawtip><position>(0.2388, 0.3011, 0.4252)</position></clawtip></t>
+<t><time>141.124</time>
+<viewpoint> <position>(0.1326, 5.1235, 4.9021)</position> <rotation>(-0.0053, 0.9196, -0.3927, -0.0124)</rotation></viewpoint>
+<clawtip><position>(0.2388, 0.3011, 0.4252)</position></clawtip></t>
+<t><time>141.644</time>
+<viewpoint> <position>(-0.0631, 5.1437, 4.7507)</position> <rotation>(0.0027, 0.9161, -0.4009, 0.0061)</rotation></viewpoint>
+<clawtip><position>(0.2388, 0.3011, 0.4252)</position></clawtip></t>
+<t><time>142.151</time>
+<viewpoint> <position>(-0.4320, 5.1950, 4.7015)</position> <rotation>(0.0185, 0.9135, -0.4042, 0.0419)</rotation></viewpoint>
+<clawtip><position>(0.2388, 0.3011, 0.4252)</position></clawtip></t>
+<t><time>142.658</time>
+<viewpoint> <position>(-0.1673, 5.1723, 4.8876)</position> <rotation>(0.0068, 0.9183, -0.3955, 0.0157)</rotation></viewpoint>
+<clawtip><position>(0.2388, 0.3011, 0.4252)</position></clawtip></t>
+<t><time>143.164</time>
+<viewpoint> <position>(0.1207, 5.1333, 5.0632)</position> <rotation>(-0.0046, 0.9225, -0.3858, -0.0110)</rotation></viewpoint>
+<clawtip><position>(0.2388, 0.3011, 0.4252)</position></clawtip></t>
+<t><time>143.685</time>
+<viewpoint> <position>(0.0697, 5.1388, 5.0501)</position> <rotation>(-0.0027, 0.9222, -0.3867, -0.0064)</rotation></viewpoint>
+<clawtip><position>(0.2388, 0.3011, 0.4252)</position></clawtip></t>
+<t><time>144.191</time>
+<viewpoint> <position>(-0.3459, 5.1575, 4.8655)</position> <rotation>(0.0140, 0.9179, -0.3953, 0.0326)</rotation></viewpoint>
+<clawtip><position>(0.2388, 0.3011, 0.4252)</position></clawtip></t>
+<t><time>144.698</time>
+<viewpoint> <position>(-0.5256, 5.1662, 4.8215)</position> <rotation>(0.0216, 0.9164, -0.3966, 0.0498)</rotation></viewpoint>
+<clawtip><position>(0.2388, 0.3011, 0.4252)</position></clawtip></t>
+<t><time>145.205</time>
+<viewpoint> <position>(0.0417, 5.1439, 4.9942)</position> <rotation>(-0.0016, 0.9210, -0.3895, -0.0038)</rotation></viewpoint>
+<clawtip><position>(0.2388, 0.3011, 0.4252)</position></clawtip></t>
+<t><time>145.725</time>
+<viewpoint> <position>(0.1829, 5.1372, 4.9904)</position> <rotation>(-0.0071, 0.9210, -0.3891, -0.0169)</rotation></viewpoint>
+<clawtip><position>(0.2388, 0.3011, 0.4252)</position></clawtip></t>
+<t><time>146.231</time>
+<viewpoint> <position>(0.0569, 5.1399, 4.9358)</position> <rotation>(-0.0023, 0.9199, -0.3920, -0.0053)</rotation></viewpoint>
+<clawtip><position>(0.2388, 0.3011, 0.4252)</position></clawtip></t>
+<t><time>146.738</time>
+<viewpoint> <position>(-0.0460, 5.1499, 4.9506)</position> <rotation>(0.0018, 0.9201, -0.3918, 0.0043)</rotation></viewpoint>
+<clawtip><position>(0.2388, 0.3011, 0.4252)</position></clawtip></t>
+<t><time>147.244</time>
+<viewpoint> <position>(-0.0444, 5.1339, 4.9889)</position> <rotation>(0.0017, 0.9211, -0.3893, 0.0041)</rotation></viewpoint>
+<clawtip><position>(0.2388, 0.3011, 0.4252)</position></clawtip></t>
+<t><time>147.325</time>
+<keyevent>TimeOutTarget</keyevent><tid>3</tid></t>
+<t><time>147.325</time>
+<event>TimerON</event></t>
+<t><time>147.325</time>
+<keyevent>ActivatedTargetNum</keyevent>
+<tid>3</tid>
+<position>(0.4456, 0.5437, -0.3859)</position>
+<diameter>(0.0681, 0.0681, 0.0681)</diameter>
+<distance>0.8745</distance>
+</t>
+<t><time>147.764</time>
+<viewpoint> <position>(-0.0468, 5.1328, 4.9674)</position> <rotation>(0.0018, 0.9207, -0.3902, 0.0043)</rotation></viewpoint>
+<clawtip><position>(0.0003, -0.1022, 0.0000)</position></clawtip></t>
+<t><time>148.271</time>
+<viewpoint> <position>(-0.0808, 5.1391, 4.9323)</position> <rotation>(0.0032, 0.9199, -0.3921, 0.0075)</rotation></viewpoint>
+<clawtip><position>(0.1368, -0.1022, 0.0020)</position></clawtip></t>
+<t><time>148.460</time>
+<event>ClawCollidedOn</event>
+<name>Tree02</name></t>
+<t><time>148.540</time>
+<event>ClawCollidedOn</event>
+<name>Tree02</name></t>
+<t><time>148.778</time>
+<viewpoint> <position>(-0.0297, 5.1286, 4.9297)</position> <rotation>(0.0012, 0.9200, -0.3918, 0.0028)</rotation></viewpoint>
+<clawtip><position>(0.2599, -0.0965, -0.0097)</position></clawtip></t>
+<t><time>149.284</time>
+<viewpoint> <position>(0.0174, 5.1245, 4.9062)</position> <rotation>(-0.0007, 0.9197, -0.3927, -0.0016)</rotation></viewpoint>
+<clawtip><position>(0.2368, -0.0053, -0.0284)</position></clawtip></t>
+<t><time>149.660</time>
+<event>ClawCollidedOn</event>
+<name>Tree02</name></t>
+<t><time>149.805</time>
+<viewpoint> <position>(0.0185, 5.1346, 4.9084)</position> <rotation>(-0.0007, 0.9195, -0.3931, -0.0017)</rotation></viewpoint>
+<clawtip><position>(0.2925, 0.1393, -0.0397)</position></clawtip></t>
+<t><time>150.311</time>
+<viewpoint> <position>(0.0091, 5.1324, 4.9331)</position> <rotation>(-0.0004, 0.9200, -0.3918, -0.0009)</rotation></viewpoint>
+<clawtip><position>(0.4761, 0.3498, -0.0715)</position></clawtip></t>
+<t><time>150.818</time>
+<viewpoint> <position>(-0.0067, 5.1258, 4.9354)</position> <rotation>(0.0003, 0.9202, -0.3914, 0.0006)</rotation></viewpoint>
+<clawtip><position>(0.5545, 0.5165, -0.2367)</position></clawtip></t>
+<t><time>151.100</time>
+<event>ClawCollidedOn</event>
+<name>apple-target4</name></t>
+<t><time>151.320</time>
+<event>ClawCollidedOn</event>
+<name>apple-target4</name></t>
+<t><time>151.325</time>
+<viewpoint> <position>(0.0002, 5.1289, 4.9319)</position> <rotation>(0.0000, 0.9201, -0.3917, 0.0000)</rotation></viewpoint>
+<clawtip><position>(0.5083, 0.5448, -0.4504)</position></clawtip></t>
+<t><time>151.658</time>
+<event>GrabButtonPressed</event></t>
+<t><time>151.658</time>
+<event>ClawWillOpen</event></t>
+<t><time>151.658</time>
+<event>ClawGrabDistanceToTarget</event>
+<distance>-0.1535</distance></t>
+<t><time>151.658</time>
+<keyevent>ClawWillOverReachTarget</keyevent></t>
+<t><time>151.800</time>
+<event>ClawCollidedOn</event>
+<name>apple-target4</name></t>
+<t><time>151.845</time>
+<viewpoint> <position>(0.0116, 5.1425, 4.9306)</position> <rotation>(-0.0005, 0.9198, -0.3924, -0.0011)</rotation></viewpoint>
+<clawtip><position>(0.4558, 0.5481, -0.5098)</position></clawtip></t>
+<t><time>152.351</time>
+<viewpoint> <position>(0.0192, 5.1457, 4.9384)</position> <rotation>(-0.0008, 0.9199, -0.3922, -0.0018)</rotation></viewpoint>
+<clawtip><position>(0.4523, 0.5176, -0.5227)</position></clawtip></t>
+<t><time>152.420</time>
+<event>ClawCollidedOn</event>
+<name>apple-target4</name></t>
+<t><time>152.420</time>
+<event>ClawCollidedOn</event>
+<name>Tree07-3</name></t>
+<t><time>152.858</time>
+<viewpoint> <position>(0.0274, 5.1435, 4.9647)</position> <rotation>(-0.0011, 0.9205, -0.3908, -0.0025)</rotation></viewpoint>
+<clawtip><position>(0.4516, 0.5486, -0.5235)</position></clawtip></t>
+<t><time>153.360</time>
+<event>ClawCollidedOn</event>
+<name>apple-target4</name></t>
+<t><time>153.365</time>
+<viewpoint> <position>(0.0014, 5.1498, 4.9699)</position> <rotation>(-0.0001, 0.9204, -0.3909, -0.0001)</rotation></viewpoint>
+<clawtip><position>(0.4666, 0.5486, -0.4969)</position></clawtip></t>
+<t><time>153.885</time>
+<viewpoint> <position>(-0.0116, 5.1428, 5.0008)</position> <rotation>(0.0005, 0.9212, -0.3891, 0.0011)</rotation></viewpoint>
+<clawtip><position>(0.4956, 0.5461, -0.4605)</position></clawtip></t>
+<t><time>154.391</time>
+<viewpoint> <position>(-0.0204, 5.1380, 5.0367)</position> <rotation>(0.0008, 0.9220, -0.3873, 0.0019)</rotation></viewpoint>
+<clawtip><position>(0.4959, 0.6528, -0.4502)</position></clawtip></t>
+<t><time>154.898</time>
+<viewpoint> <position>(-0.0260, 5.1442, 5.0432)</position> <rotation>(0.0010, 0.9220, -0.3873, 0.0024)</rotation></viewpoint>
+<clawtip><position>(0.4653, 0.6945, -0.3550)</position></clawtip></t>
+<t><time>155.405</time>
+<viewpoint> <position>(-0.0229, 5.1395, 5.0378)</position> <rotation>(0.0009, 0.9220, -0.3873, 0.0021)</rotation></viewpoint>
+<clawtip><position>(0.4250, 0.6998, -0.3390)</position></clawtip></t>
+<t><time>155.645</time>
+<event>GrabButtonPressed</event></t>
+<t><time>155.645</time>
+<event>ClawWillOpen</event></t>
+<t><time>155.645</time>
+<event>ClawGrabDistanceToTarget</event>
+<distance>0.0651</distance></t>
+<t><time>155.645</time>
+<keyevent>ClawWillReachTarget</keyevent></t>
+<t><time>155.645</time>
+<targetinfo><tid>3</tid><distance>0.8744748</distance><diameter>0.06806043</diameter><deltatime>8.320068</deltatime><erate>7</erate><trate>1</trate></targetinfo></t>
+<t><time>155.911</time>
+<viewpoint> <position>(-0.0344, 5.1407, 5.0375)</position> <rotation>(0.0013, 0.9219, -0.3874, 0.0031)</rotation></viewpoint>
+<clawtip><position>(0.4620, 0.7004, -0.3496)</position></clawtip></t>
+<t><time>156.418</time>
+<viewpoint> <position>(-0.1776, 5.1496, 4.9759)</position> <rotation>(0.0070, 0.9205, -0.3904, 0.0164)</rotation></viewpoint>
+<clawtip><position>(0.4669, 0.6428, -0.3510)</position></clawtip></t>
+<t><time>156.925</time>
+<viewpoint> <position>(-0.4045, 5.1686, 4.8455)</position> <rotation>(0.0165, 0.9171, -0.3964, 0.0382)</rotation></viewpoint>
+<clawtip><position>(0.4672, 0.5954, -0.3511)</position></clawtip></t>
+<t><time>157.084</time>
+<event>TimerPause</event></t>
+<t><time>157.084</time>
+<event>ClawAttachedTarget</event></t>
+<t><time>157.084</time>
+<event>ClawGotTarget</event></t>
+<t><time>157.445</time>
+<viewpoint> <position>(-0.2044, 5.1466, 5.0000)</position> <rotation>(0.0079, 0.9210, -0.3891, 0.0188)</rotation></viewpoint>
+<clawtip><position>(0.4640, 0.5954, -0.2987)</position></clawtip></t>
+<t><time>157.951</time>
+<viewpoint> <position>(0.1002, 5.1401, 5.0262)</position> <rotation>(-0.0039, 0.9217, -0.3878, -0.0092)</rotation></viewpoint>
+<clawtip><position>(0.4591, 0.5954, -0.0992)</position></clawtip></t>
+<t><time>158.458</time>
+<viewpoint> <position>(0.2216, 5.1260, 4.9459)</position> <rotation>(-0.0087, 0.9203, -0.3906, -0.0206)</rotation></viewpoint>
+<clawtip><position>(0.4629, 0.5954, 0.1198)</position></clawtip></t>
+<t><time>158.564</time>
+<event>ReleaseButtonPressed</event></t>
+<t><time>158.564</time>
+<event>ClawWillRelease</event></t>
+<t><time>158.964</time>
+<viewpoint> <position>(0.1492, 5.1822, 4.8400)</position> <rotation>(-0.0061, 0.9172, -0.3982, -0.0141)</rotation></viewpoint>
+<clawtip><position>(0.4647, 0.5954, 0.1858)</position></clawtip></t>
+<t><time>159.258</time>
+<event>ClawDetachedTarget</event></t>
+<t><time>159.258</time>
+<event>ClawReleased</event></t>
+<t><time>159.485</time>
+<viewpoint> <position>(-0.3830, 5.2359, 4.7146)</position> <rotation>(0.0164, 0.9131, -0.4056, 0.0370)</rotation></viewpoint>
+<clawtip><position>(0.4650, 0.5955, 0.1934)</position></clawtip></t>
+<t><time>159.720</time>
+<event>Target dropped, collided on Island</event></t>
+<t><time>159.845</time>
+<event>ClawCompetedTarget</event></t>
+<t><time>159.845</time>
+<event>TimerON</event></t>
+<t><time>159.845</time>
+<keyevent>ActivatedTargetNum</keyevent>
+<tid>4</tid>
+<position>(-0.0042, -0.0214, -0.2420)</position>
+<diameter>(0.0557, 0.0557, 0.0557)</diameter>
+<distance>0.9519</distance>
+</t>
+<t><time>159.991</time>
+<viewpoint> <position>(-0.6619, 5.1940, 4.6041)</position> <rotation>(0.0291, 0.9107, -0.4069, 0.0651)</rotation></viewpoint>
+<clawtip><position>(0.4650, 0.7005, 0.1934)</position></clawtip></t>
+<t><time>160.498</time>
+<viewpoint> <position>(-0.6858, 5.1822, 4.5533)</position> <rotation>(0.0306, 0.9097, -0.4086, 0.0681)</rotation></viewpoint>
+<clawtip><position>(0.3521, 0.7005, 0.2392)</position></clawtip></t>
+<t><time>161.005</time>
+<viewpoint> <position>(-0.6578, 5.1683, 4.5441)</position> <rotation>(0.0294, 0.9098, -0.4087, 0.0655)</rotation></viewpoint>
+<clawtip><position>(0.1406, 0.6524, 0.3263)</position></clawtip></t>
+<t><time>161.525</time>
+<viewpoint> <position>(-0.6251, 5.0988, 4.4652)</position> <rotation>(0.0285, 0.9095, -0.4098, 0.0634)</rotation></viewpoint>
+<clawtip><position>(-0.0894, 0.4570, 0.3325)</position></clawtip></t>
+<t><time>162.031</time>
+<viewpoint> <position>(-0.5031, 5.0558, 4.4709)</position> <rotation>(0.0229, 0.9109, -0.4088, 0.0511)</rotation></viewpoint>
+<clawtip><position>(-0.2319, 0.3930, 0.1737)</position></clawtip></t>
+<t><time>162.538</time>
+<viewpoint> <position>(-0.4307, 5.0291, 4.4259)</position> <rotation>(0.0199, 0.9106, -0.4104, 0.0442)</rotation></viewpoint>
+<clawtip><position>(-0.1491, 0.3177, 0.0064)</position></clawtip></t>
+<t><time>162.640</time>
+<event>ClawCollidedOn</event>
+<name>Island</name></t>
+<t><time>163.045</time>
+<viewpoint> <position>(-0.4568, 5.0304, 4.3879)</position> <rotation>(0.0214, 0.9096, -0.4122, 0.0472)</rotation></viewpoint>
+<clawtip><position>(-0.1002, 0.2645, -0.0487)</position></clawtip></t>
+<t><time>163.565</time>
+<viewpoint> <position>(-0.5642, 5.0354, 4.4260)</position> <rotation>(0.0260, 0.9101, -0.4095, 0.0578)</rotation></viewpoint>
+<clawtip><position>(-0.0852, 0.0947, -0.2239)</position></clawtip></t>
+<t><time>163.720</time>
+<event>ClawCollidedOn</event>
+<name>apple-target5</name></t>
+<t><time>163.760</time>
+<event>ClawCollidedOn</event>
+<name>apple-target5</name></t>
+<t><time>164.071</time>
+<viewpoint> <position>(-0.6496, 5.0798, 4.5918)</position> <rotation>(0.0283, 0.9127, -0.4026, 0.0642)</rotation></viewpoint>
+<clawtip><position>(-0.0661, 0.0170, -0.2744)</position></clawtip></t>
+<t><time>164.578</time>
+<viewpoint> <position>(-0.7305, 5.0805, 4.6695)</position> <rotation>(0.0309, 0.9141, -0.3981, 0.0711)</rotation></viewpoint>
+<clawtip><position>(-0.0661, 0.0563, -0.2744)</position></clawtip></t>
+<t><time>165.085</time>
+<viewpoint> <position>(-0.7090, 5.1117, 4.7298)</position> <rotation>(0.0296, 0.9149, -0.3969, 0.0682)</rotation></viewpoint>
+<clawtip><position>(-0.0377, 0.1071, -0.2403)</position></clawtip></t>
+<t><time>165.565</time>
+<event>GrabButtonPressed</event></t>
+<t><time>165.565</time>
+<event>ClawWillOpen</event></t>
+<t><time>165.565</time>
+<event>ClawGrabDistanceToTarget</event>
+<distance>0.0434</distance></t>
+<t><time>165.565</time>
+<keyevent>ClawWillReachTarget</keyevent></t>
+<t><time>165.565</time>
+<targetinfo><tid>4</tid><distance>0.9519387</distance><diameter>0.05572477</diameter><deltatime>5.720078</deltatime><erate>7</erate><trate>0</trate></targetinfo></t>
+<t><time>165.605</time>
+<viewpoint> <position>(-0.7254, 5.1187, 4.7086)</position> <rotation>(0.0305, 0.9142, -0.3980, 0.0700)</rotation></viewpoint>
+<clawtip><position>(-0.0168, 0.1129, -0.2121)</position></clawtip></t>
+<t><time>166.111</time>
+<viewpoint> <position>(-0.7267, 5.1367, 4.6818)</position> <rotation>(0.0309, 0.9133, -0.4001, 0.0705)</rotation></viewpoint>
+<clawtip><position>(-0.0144, 0.1123, -0.2089)</position></clawtip></t>
+<t><time>166.618</time>
+<viewpoint> <position>(-0.7190, 5.1481, 4.6757)</position> <rotation>(0.0306, 0.9129, -0.4009, 0.0698)</rotation></viewpoint>
+<clawtip><position>(-0.0141, 0.0087, -0.2086)</position></clawtip></t>
+<t><time>167.004</time>
+<event>TimerPause</event></t>
+<t><time>167.004</time>
+<event>ClawAttachedTarget</event></t>
+<t><time>167.004</time>
+<event>ClawGotTarget</event></t>
+<t><time>167.125</time>
+<viewpoint> <position>(-0.6916, 5.1476, 4.6535)</position> <rotation>(0.0297, 0.9126, -0.4022, 0.0674)</rotation></viewpoint>
+<clawtip><position>(-0.0141, 0.0087, -0.2086)</position></clawtip></t>
+<t><time>167.645</time>
+<viewpoint> <position>(-0.6803, 5.1427, 4.6440)</position> <rotation>(0.0293, 0.9125, -0.4026, 0.0665)</rotation></viewpoint>
+<clawtip><position>(-0.0199, 0.0087, -0.1692)</position></clawtip></t>
+<t><time>168.152</time>
+<viewpoint> <position>(-0.6626, 5.1413, 4.6569)</position> <rotation>(0.0285, 0.9129, -0.4021, 0.0646)</rotation></viewpoint>
+<clawtip><position>(-0.0459, 0.0087, 0.0213)</position></clawtip></t>
+<t><time>168.658</time>
+<viewpoint> <position>(-0.6394, 5.1304, 4.6954)</position> <rotation>(0.0271, 0.9140, -0.4000, 0.0619)</rotation></viewpoint>
+<clawtip><position>(0.0165, 0.0737, 0.2235)</position></clawtip></t>
+<t><time>169.165</time>
+<viewpoint> <position>(-0.6285, 5.1303, 4.6921)</position> <rotation>(0.0267, 0.9140, -0.4003, 0.0609)</rotation></viewpoint>
+<clawtip><position>(0.1541, 0.2117, 0.4098)</position></clawtip></t>
+<t><time>169.578</time>
+<event>ReleaseButtonPressed</event></t>
+<t><time>169.578</time>
+<event>ClawWillRelease</event></t>
+<t><time>169.685</time>
+<viewpoint> <position>(-0.6151, 5.1280, 4.6593)</position> <rotation>(0.0264, 0.9134, -0.4018, 0.0600)</rotation></viewpoint>
+<clawtip><position>(0.2849, 0.3120, 0.5568)</position></clawtip></t>
+<t><time>170.178</time>
+<event>ClawDetachedTarget</event></t>
+<t><time>170.178</time>
+<event>ClawReleased</event></t>
+<t><time>170.191</time>
+<viewpoint> <position>(-0.6218, 5.1276, 4.6128)</position> <rotation>(0.0271, 0.9123, -0.4040, 0.0612)</rotation></viewpoint>
+<clawtip><position>(0.3088, 0.3260, 0.5828)</position></clawtip></t>
+<t><time>170.440</time>
+<event>Target dropped, collided on WoodenCrate</event></t>
+<t><time>170.540</time>
+<event>Target dropped, collided on WoodenCrate</event></t>
+<t><time>170.560</time>
+<event>Target dropped, collided on Island</event></t>
+<t><time>170.698</time>
+<viewpoint> <position>(-0.6257, 5.1225, 4.6114)</position> <rotation>(0.0273, 0.9124, -0.4038, 0.0616)</rotation></viewpoint>
+<clawtip><position>(0.3115, 0.3880, 0.5858)</position></clawtip></t>
+<t><time>170.778</time>
+<event>ClawCompetedTarget</event></t>
+<t><time>170.778</time>
+<event>TimerON</event></t>
+<t><time>170.778</time>
+<keyevent>ActivatedTargetNum</keyevent>
+<tid>5</tid>
+<position>(-0.6588, 0.0907, 0.3280)</position>
+<diameter>(0.0990, 0.0990, 0.0990)</diameter>
+<distance>1.0565</distance>
+</t>
+<t><time>171.204</time>
+<viewpoint> <position>(-0.6399, 5.1227, 4.6546)</position> <rotation>(0.0275, 0.9133, -0.4016, 0.0625)</rotation></viewpoint>
+<clawtip><position>(0.2761, 0.4326, 0.5806)</position></clawtip></t>
+<t><time>171.725</time>
+<viewpoint> <position>(-0.6968, 5.1242, 4.6911)</position> <rotation>(0.0295, 0.9138, -0.3994, 0.0675)</rotation></viewpoint>
+<clawtip><position>(0.0775, 0.4305, 0.5524)</position></clawtip></t>
+<t><time>172.231</time>
+<viewpoint> <position>(-0.7253, 5.1101, 4.6899)</position> <rotation>(0.0306, 0.9140, -0.3985, 0.0703)</rotation></viewpoint>
+<clawtip><position>(-0.1456, 0.3795, 0.5192)</position></clawtip></t>
+<t><time>172.738</time>
+<viewpoint> <position>(-0.7259, 5.1060, 4.6676)</position> <rotation>(0.0309, 0.9135, -0.3994, 0.0706)</rotation></viewpoint>
+<clawtip><position>(-0.3736, 0.4604, 0.4921)</position></clawtip></t>
+<t><time>173.244</time>
+<viewpoint> <position>(-0.6930, 5.1058, 4.6360)</position> <rotation>(0.0298, 0.9130, -0.4012, 0.0679)</rotation></viewpoint>
+<clawtip><position>(-0.6056, 0.3495, 0.4722)</position></clawtip></t>
+<t><time>173.765</time>
+<viewpoint> <position>(-0.6609, 5.0905, 4.5942)</position> <rotation>(0.0288, 0.9125, -0.4028, 0.0653)</rotation></viewpoint>
+<clawtip><position>(-0.6770, 0.3086, 0.4263)</position></clawtip></t>
+<t><time>174.271</time>
+<viewpoint> <position>(-0.6185, 5.0982, 4.5575)</position> <rotation>(0.0274, 0.9117, -0.4054, 0.0616)</rotation></viewpoint>
+<clawtip><position>(-0.6728, 0.3040, 0.3847)</position></clawtip></t>
+<t><time>174.365</time>
+<event>GrabButtonPressed</event></t>
+<t><time>174.365</time>
+<event>ClawWillOpen</event></t>
+<t><time>174.365</time>
+<event>ClawGrabDistanceToTarget</event>
+<distance>0.1192</distance></t>
+<t><time>174.365</time>
+<keyevent>ClawWillUnderReachTarget</keyevent></t>
+<t><time>174.778</time>
+<viewpoint> <position>(-0.6234, 5.0961, 4.5636)</position> <rotation>(0.0275, 0.9118, -0.4049, 0.0620)</rotation></viewpoint>
+<clawtip><position>(-0.6660, 0.3034, 0.3652)</position></clawtip></t>
+<t><time>175.284</time>
+<viewpoint> <position>(-0.6400, 5.1022, 4.5992)</position> <rotation>(0.0279, 0.9124, -0.4033, 0.0632)</rotation></viewpoint>
+<clawtip><position>(-0.6652, 0.2037, 0.3627)</position></clawtip></t>
+<t><time>175.600</time>
+<event>ClawCollidedOn</event>
+<name>apple-target6</name></t>
+<t><time>175.778</time>
+<event>ClawUnderReachedTarget</event></t>
+<t><time>175.791</time>
+<viewpoint> <position>(-0.6593, 5.1154, 4.6356)</position> <rotation>(0.0284, 0.9129, -0.4020, 0.0646)</rotation></viewpoint>
+<clawtip><position>(-0.6651, 0.1984, 0.3625)</position></clawtip></t>
+<t><time>176.298</time>
+<viewpoint> <position>(-0.6689, 5.1087, 4.6436)</position> <rotation>(0.0288, 0.9132, -0.4012, 0.0654)</rotation></viewpoint>
+<clawtip><position>(-0.6651, 0.3034, 0.3624)</position></clawtip></t>
+<t><time>176.805</time>
+<viewpoint> <position>(-0.6473, 5.1037, 4.6298)</position> <rotation>(0.0280, 0.9131, -0.4019, 0.0635)</rotation></viewpoint>
+<clawtip><position>(-0.6650, 0.2490, 0.3617)</position></clawtip></t>
+<t><time>177.071</time>
+<event>GrabButtonPressed</event></t>
+<t><time>177.071</time>
+<event>ClawWillOpen</event></t>
+<t><time>177.071</time>
+<event>ClawGrabDistanceToTarget</event>
+<distance>0.0384</distance></t>
+<t><time>177.071</time>
+<keyevent>ClawWillReachTarget</keyevent></t>
+<t><time>177.071</time>
+<targetinfo><tid>5</tid><distance>1.056489</distance><diameter>0.09901611</diameter><deltatime>6.293365</deltatime><erate>8</erate><trate>0</trate></targetinfo></t>
+<t><time>177.325</time>
+<viewpoint> <position>(-0.6450, 5.1043, 4.6344)</position> <rotation>(0.0278, 0.9132, -0.4017, 0.0632)</rotation></viewpoint>
+<clawtip><position>(-0.6585, 0.2290, 0.3156)</position></clawtip></t>
+<t><time>177.831</time>
+<viewpoint> <position>(-0.6484, 5.1091, 4.6517)</position> <rotation>(0.0278, 0.9134, -0.4011, 0.0634)</rotation></viewpoint>
+<clawtip><position>(-0.6576, 0.1753, 0.3092)</position></clawtip></t>
+<t><time>178.338</time>
+<viewpoint> <position>(-0.6149, 5.1145, 4.6819)</position> <rotation>(0.0262, 0.9141, -0.4002, 0.0598)</rotation></viewpoint>
+<clawtip><position>(-0.6575, 0.1216, 0.3088)</position></clawtip></t>
+<t><time>178.511</time>
+<event>TimerPause</event></t>
+<t><time>178.511</time>
+<event>ClawAttachedTarget</event></t>
+<t><time>178.511</time>
+<event>ClawGotTarget</event></t>
+<t><time>178.845</time>
+<viewpoint> <position>(-0.6559, 5.1139, 4.7057)</position> <rotation>(0.0276, 0.9145, -0.3986, 0.0634)</rotation></viewpoint>
+<clawtip><position>(-0.6192, 0.1216, 0.3374)</position></clawtip></t>
+<t><time>179.365</time>
+<viewpoint> <position>(-0.6542, 5.1144, 4.7019)</position> <rotation>(0.0276, 0.9144, -0.3989, 0.0633)</rotation></viewpoint>
+<clawtip><position>(-0.4321, 0.1349, 0.4317)</position></clawtip></t>
+<t><time>179.872</time>
+<viewpoint> <position>(-0.6205, 5.1165, 4.6916)</position> <rotation>(0.0263, 0.9143, -0.3997, 0.0602)</rotation></viewpoint>
+<clawtip><position>(-0.2157, 0.2490, 0.5112)</position></clawtip></t>
+<t><time>180.378</time>
+<viewpoint> <position>(-0.6016, 5.1159, 4.6624)</position> <rotation>(0.0258, 0.9137, -0.4013, 0.0587)</rotation></viewpoint>
+<clawtip><position>(0.0065, 0.2730, 0.5808)</position></clawtip></t>
+<t><time>180.885</time>
+<viewpoint> <position>(-0.5999, 5.1100, 4.6540)</position> <rotation>(0.0258, 0.9136, -0.4014, 0.0586)</rotation></viewpoint>
+<clawtip><position>(0.2390, 0.2780, 0.6474)</position></clawtip></t>
+<t><time>181.405</time>
+<viewpoint> <position>(-0.6016, 5.1064, 4.6514)</position> <rotation>(0.0259, 0.9137, -0.4014, 0.0588)</rotation></viewpoint>
+<clawtip><position>(0.4350, 0.2130, 0.5818)</position></clawtip></t>
+<t><time>181.578</time>
+<event>ReleaseButtonPressed</event></t>
+<t><time>181.578</time>
+<event>ClawWillRelease</event></t>
+<t><time>181.685</time>
+<event>ClawDetachedTarget</event></t>
+<t><time>181.685</time>
+<event>ClawReleased</event></t>
+<t><time>181.860</time>
+<event>Target dropped, collided on WoodenCrate</event></t>
+<t><time>181.911</time>
+<viewpoint> <position>(-0.6038, 5.1082, 4.6559)</position> <rotation>(0.0259, 0.9137, -0.4012, 0.0590)</rotation></viewpoint>
+<clawtip><position>(0.4810, 0.2022, 0.4807)</position></clawtip></t>
+<t><time>182.140</time>
+<event>Target dropped, collided on WoodenCrate</event></t>
+<t><time>182.140</time>
+<event>Target dropped, collided on WoodenCrate</event></t>
+<t><time>182.271</time>
+<event>ClawCompetedTarget</event></t>
+<t><time>182.271</time>
+<event>TimerON</event></t>
+<t><time>182.271</time>
+<keyevent>ActivatedTargetNum</keyevent>
+<tid>6</tid>
+<position>(-0.0783, -0.2550, 0.7332)</position>
+<diameter>(0.0993, 0.0993, 0.0993)</diameter>
+<distance>0.8271</distance>
+</t>
+<t><time>182.418</time>
+<viewpoint> <position>(-0.6207, 5.1052, 4.6663)</position> <rotation>(0.0265, 0.9139, -0.4004, 0.0605)</rotation></viewpoint>
+<clawtip><position>(0.4867, 0.3058, 0.4674)</position></clawtip></t>
+<t><time>182.620</time>
+<event>Target dropped, collided on WoodenCrate</event></t>
+<t><time>182.925</time>
+<viewpoint> <position>(-0.6232, 5.1063, 4.6686)</position> <rotation>(0.0266, 0.9140, -0.4004, 0.0607)</rotation></viewpoint>
+<clawtip><position>(0.3485, 0.3056, 0.4521)</position></clawtip></t>
+<t><time>183.445</time>
+<viewpoint> <position>(-0.6496, 5.0813, 4.7116)</position> <rotation>(0.0272, 0.9153, -0.3970, 0.0628)</rotation></viewpoint>
+<clawtip><position>(0.1237, 0.1980, 0.4781)</position></clawtip></t>
+<t><time>183.951</time>
+<viewpoint> <position>(-0.6677, 4.9229, 4.9252)</position> <rotation>(0.0256, 0.9227, -0.3796, 0.0623)</rotation></viewpoint>
+<clawtip><position>(-0.0192, 0.0793, 0.6244)</position></clawtip></t>
+<t><time>184.458</time>
+<viewpoint> <position>(-0.6499, 4.7069, 5.1618)</position> <rotation>(0.0225, 0.9313, -0.3588, 0.0584)</rotation></viewpoint>
+<clawtip><position>(-0.1029, 0.0624, 0.7845)</position></clawtip></t>
+<t><time>184.965</time>
+<viewpoint> <position>(-0.6224, 4.7033, 5.2019)</position> <rotation>(0.0213, 0.9322, -0.3570, 0.0556)</rotation></viewpoint>
+<clawtip><position>(-0.1239, 0.0602, 0.8861)</position></clawtip></t>
+<t><time>185.485</time>
+<viewpoint> <position>(-0.6179, 4.7570, 5.1053)</position> <rotation>(0.0219, 0.9295, -0.3640, 0.0560)</rotation></viewpoint>
+<clawtip><position>(-0.0963, 0.0600, 0.8682)</position></clawtip></t>
+<t><time>185.618</time>
+<event>GrabButtonPressed</event></t>
+<t><time>185.618</time>
+<event>ClawWillOpen</event></t>
+<t><time>185.618</time>
+<event>ClawGrabDistanceToTarget</event>
+<distance>0.2440</distance></t>
+<t><time>185.618</time>
+<keyevent>ClawWillUnderReachTarget</keyevent></t>
+<t><time>185.991</time>
+<viewpoint> <position>(-0.6385, 4.9160, 4.9459)</position> <rotation>(0.0243, 0.9233, -0.3786, 0.0594)</rotation></viewpoint>
+<clawtip><position>(-0.1030, 0.0600, 0.8400)</position></clawtip></t>
+<t><time>186.498</time>
+<viewpoint> <position>(-0.7032, 4.7587, 4.9839)</position> <rotation>(0.0259, 0.9269, -0.3688, 0.0651)</rotation></viewpoint>
+<clawtip><position>(-0.1038, -0.0351, 0.8365)</position></clawtip></t>
+<t><time>187.005</time>
+<viewpoint> <position>(-0.7515, 4.1641, 5.0447)</position> <rotation>(0.0248, 0.9394, -0.3348, 0.0696)</rotation></viewpoint>
+<clawtip><position>(-0.1039, -0.0450, 0.8361)</position></clawtip></t>
+<t><time>187.018</time>
+<event>ClawUnderReachedTarget</event></t>
+<t><time>187.525</time>
+<viewpoint> <position>(-0.6391, 4.7997, 4.7704)</position> <rotation>(0.0254, 0.9221, -0.3812, 0.0615)</rotation></viewpoint>
+<clawtip><position>(-0.1039, 0.0528, 0.8360)</position></clawtip></t>
+<t><time>188.031</time>
+<viewpoint> <position>(-0.5909, 4.8180, 4.6569)</position> <rotation>(0.0245, 0.9195, -0.3879, 0.0581)</rotation></viewpoint>
+<clawtip><position>(-0.1019, -0.0219, 0.8206)</position></clawtip></t>
+<t><time>188.232</time>
+<event>GrabButtonPressed</event></t>
+<t><time>188.232</time>
+<event>ClawWillOpen</event></t>
+<t><time>188.232</time>
+<event>ClawGrabDistanceToTarget</event>
+<distance>0.1400</distance></t>
+<t><time>188.232</time>
+<keyevent>ClawWillUnderReachTarget</keyevent></t>
+<t><time>188.538</time>
+<viewpoint> <position>(-0.5051, 4.9746, 4.5060)</position> <rotation>(0.0225, 0.9134, -0.4033, 0.0510)</rotation></viewpoint>
+<clawtip><position>(-0.0979, -0.0329, 0.7894)</position></clawtip></t>
+<t><time>189.045</time>
+<viewpoint> <position>(-0.4903, 4.9625, 4.2212)</position> <rotation>(0.0242, 0.9069, -0.4174, 0.0525)</rotation></viewpoint>
+<clawtip><position>(-0.0974, -0.1041, 0.7855)</position></clawtip></t>
+<t><time>189.565</time>
+<viewpoint> <position>(-0.5738, 4.9657, 4.2645)</position> <rotation>(0.0278, 0.9076, -0.4145, 0.0608)</rotation></viewpoint>
+<clawtip><position>(-0.0974, -0.1395, 0.7850)</position></clawtip></t>
+<t><time>189.645</time>
+<event>ClawUnderReachedTarget</event></t>
+<t><time>190.071</time>
+<viewpoint> <position>(-0.5961, 4.9765, 4.3956)</position> <rotation>(0.0275, 0.9104, -0.4081, 0.0615)</rotation></viewpoint>
+<clawtip><position>(-0.0964, -0.0346, 0.7772)</position></clawtip></t>
+<t><time>190.578</time>
+<viewpoint> <position>(-0.4253, 4.8886, 4.3965)</position> <rotation>(0.0196, 0.9128, -0.4055, 0.0440)</rotation></viewpoint>
+<clawtip><position>(-0.0931, -0.0554, 0.7212)</position></clawtip></t>
+<t><time>191.085</time>
+<viewpoint> <position>(-0.5219, 3.4534, 4.4031)</position> <rotation>(0.0192, 0.9441, -0.3243, 0.0558)</rotation></viewpoint>
+<clawtip><position>(-0.0927, -0.1228, 0.7136)</position></clawtip></t>
+<t><time>191.392</time>
+<event>GrabButtonPressed</event></t>
+<t><time>191.392</time>
+<event>ClawWillOpen</event></t>
+<t><time>191.392</time>
+<event>ClawGrabDistanceToTarget</event>
+<distance>0.0325</distance></t>
+<t><time>191.392</time>
+<keyevent>ClawWillReachTarget</keyevent></t>
+<t><time>191.392</time>
+<targetinfo><tid>6</tid><distance>0.827124</distance><diameter>0.0993433</diameter><deltatime>9.120102</deltatime><erate>10</erate><trate>0</trate></targetinfo></t>
+<t><time>191.605</time>
+<viewpoint> <position>(-0.5816, 1.5645, 4.5870)</position> <rotation>(0.0102, 0.9848, -0.1621, 0.0622)</rotation></viewpoint>
+<clawtip><position>(-0.0926, -0.1308, 0.7127)</position></clawtip></t>
+<t><time>192.112</time>
+<viewpoint> <position>(-0.6172, 1.4603, 4.6550)</position> <rotation>(0.0099, 0.9865, -0.1499, 0.0651)</rotation></viewpoint>
+<clawtip><position>(-0.0926, -0.1705, 0.7126)</position></clawtip></t>
+<t><time>192.618</time>
+<viewpoint> <position>(-0.6337, 1.4237, 4.5650)</position> <rotation>(0.0103, 0.9864, -0.1489, 0.0681)</rotation></viewpoint>
+<clawtip><position>(-0.0926, -0.2367, 0.7126)</position></clawtip></t>
+<t><time>192.831</time>
+<event>TimerPause</event></t>
+<t><time>192.831</time>
+<event>ClawAttachedTarget</event></t>
+<t><time>192.831</time>
+<event>ClawGotTarget</event></t>
+<t><time>193.125</time>
+<viewpoint> <position>(-0.4753, 1.5646, 4.4101)</position> <rotation>(0.0091, 0.9842, -0.1685, 0.0529)</rotation></viewpoint>
+<clawtip><position>(-0.0886, -0.2367, 0.6963)</position></clawtip></t>
+<t><time>193.645</time>
+<viewpoint> <position>(-0.3125, 3.5773, 4.1462)</position> <rotation>(0.0131, 0.9369, -0.3476, 0.0353)</rotation></viewpoint>
+<clawtip><position>(-0.0553, -0.1818, 0.5129)</position></clawtip></t>
+<t><time>194.151</time>
+<viewpoint> <position>(-0.3038, 5.0364, 4.3228)</position> <rotation>(0.0146, 0.9083, -0.4167, 0.0319)</rotation></viewpoint>
+<clawtip><position>(0.0509, -0.0310, 0.3802)</position></clawtip></t>
+<t><time>194.658</time>
+<viewpoint> <position>(-0.2911, 5.0795, 4.4718)</position> <rotation>(0.0134, 0.9110, -0.4111, 0.0296)</rotation></viewpoint>
+<clawtip><position>(0.2599, 0.0300, 0.4222)</position></clawtip></t>
+<t><time>194.805</time>
+<event>ReleaseButtonPressed</event></t>
+<t><time>194.805</time>
+<event>ClawWillRelease</event></t>
+<t><time>195.004</time>
+<event>ClawDetachedTarget</event></t>
+<t><time>195.004</time>
+<event>ClawReleased</event></t>
+<t><time>195.020</time>
+<event>Target dropped, collided on WoodenCrate</event></t>
+<t><time>195.165</time>
+<viewpoint> <position>(-0.3305, 5.1359, 4.5626)</position> <rotation>(0.0148, 0.9119, -0.4089, 0.0330)</rotation></viewpoint>
+<clawtip><position>(0.3965, 0.0376, 0.4590)</position></clawtip></t>
+<t><time>195.320</time>
+<event>Target dropped, collided on WoodenCrate</event></t>
+<t><time>195.605</time>
+<event>ClawCompetedTarget</event></t>
+<t><time>195.605</time>
+<event>TimerON</event></t>
+<t><time>195.605</time>
+<keyevent>ActivatedTargetNum</keyevent>
+<tid>7</tid>
+<position>(0.0906, 0.5693, 0.0447)</position>
+<diameter>(0.0691, 0.0691, 0.0691)</diameter>
+<distance>0.6479</distance>
+</t>
+<t><time>195.671</time>
+<viewpoint> <position>(-0.3437, 5.1223, 4.6711)</position> <rotation>(0.0148, 0.9145, -0.4030, 0.0336)</rotation></viewpoint>
+<clawtip><position>(0.4190, 0.1424, 0.3874)</position></clawtip></t>
+<t><time>196.178</time>
+<viewpoint> <position>(-0.4082, 5.1257, 4.8017)</position> <rotation>(0.0168, 0.9170, -0.3965, 0.0389)</rotation></viewpoint>
+<clawtip><position>(0.3993, 0.1436, 0.3739)</position></clawtip></t>
+<t><time>196.685</time>
+<viewpoint> <position>(-0.4534, 5.1380, 4.8654)</position> <rotation>(0.0183, 0.9180, -0.3938, 0.0427)</rotation></viewpoint>
+<clawtip><position>(0.2235, 0.2381, 0.3233)</position></clawtip></t>
+<t><time>197.205</time>
+<viewpoint> <position>(-0.4565, 5.1426, 4.9013)</position> <rotation>(0.0182, 0.9187, -0.3923, 0.0427)</rotation></viewpoint>
+<clawtip><position>(0.1690, 0.4525, 0.2938)</position></clawtip></t>
+<t><time>197.711</time>
+<viewpoint> <position>(-0.4519, 5.1348, 4.8502)</position> <rotation>(0.0183, 0.9178, -0.3944, 0.0427)</rotation></viewpoint>
+<clawtip><position>(0.1626, 0.6700, 0.2888)</position></clawtip></t>
+<t><time>198.218</time>
+<viewpoint> <position>(-0.4480, 5.1435, 4.7650)</position> <rotation>(0.0187, 0.9158, -0.3988, 0.0430)</rotation></viewpoint>
+<clawtip><position>(0.0872, 0.7558, 0.1706)</position></clawtip></t>
+<t><time>198.725</time>
+<viewpoint> <position>(-0.3700, 5.1206, 4.7194)</position> <rotation>(0.0157, 0.9155, -0.4004, 0.0358)</rotation></viewpoint>
+<clawtip><position>(0.0683, 0.6825, -0.0045)</position></clawtip></t>
+<t><time>198.840</time>
+<event>ClawCollidedOn</event>
+<name>Island</name></t>
+<t><time>198.900</time>
+<event>ClawCollidedOn</event>
+<name>Island</name></t>
+<t><time>199.100</time>
+<event>ClawCollidedOn</event>
+<name>Island</name></t>
+<t><time>199.120</time>
+<event>ClawCollidedOn</event>
+<name>Island</name></t>
+<t><time>199.160</time>
+<event>ClawCollidedOn</event>
+<name>apple-target8</name></t>
+<t><time>199.245</time>
+<viewpoint> <position>(-0.3677, 5.1102, 4.6896)</position> <rotation>(0.0157, 0.9151, -0.4014, 0.0358)</rotation></viewpoint>
+<clawtip><position>(0.0651, 0.6499, -0.0107)</position></clawtip></t>
+<t><time>199.620</time>
+<event>ClawCollidedOn</event>
+<name>apple-target8</name></t>
+<t><time>199.640</time>
+<event>ClawCollidedOn</event>
+<name>apple-target8</name></t>
+<t><time>199.738</time>
+<event>GrabButtonPressed</event></t>
+<t><time>199.738</time>
+<event>ClawWillOpen</event></t>
+<t><time>199.738</time>
+<event>ClawGrabDistanceToTarget</event>
+<distance>-0.0531</distance></t>
+<t><time>199.738</time>
+<keyevent>ClawWillReachTarget</keyevent></t>
+<t><time>199.738</time>
+<targetinfo><tid>7</tid><distance>0.6478893</distance><diameter>0.06914992</diameter><deltatime>4.133026</deltatime><erate>10</erate><trate>0</trate></targetinfo></t>
+<t><time>199.751</time>
+<viewpoint> <position>(-0.3847, 5.1133, 4.6902)</position> <rotation>(0.0164, 0.9150, -0.4014, 0.0375)</rotation></viewpoint>
+<clawtip><position>(0.0744, 0.6500, 0.0013)</position></clawtip></t>
+<t><time>200.258</time>
+<viewpoint> <position>(-0.4001, 5.1202, 4.7002)</position> <rotation>(0.0170, 0.9150, -0.4012, 0.0389)</rotation></viewpoint>
+<clawtip><position>(0.0756, 0.6581, 0.0091)</position></clawtip></t>
+<t><time>200.765</time>
+<viewpoint> <position>(-0.3975, 5.1246, 4.7272)</position> <rotation>(0.0168, 0.9155, -0.4001, 0.0384)</rotation></viewpoint>
+<clawtip><position>(0.0759, 0.5533, 0.0097)</position></clawtip></t>
+<t><time>201.178</time>
+<event>TimerPause</event></t>
+<t><time>201.178</time>
+<event>ClawAttachedTarget</event></t>
+<t><time>201.178</time>
+<event>ClawGotTarget</event></t>
+<t><time>201.285</time>
+<viewpoint> <position>(-0.3646, 5.1298, 4.7617)</position> <rotation>(0.0152, 0.9162, -0.3988, 0.0350)</rotation></viewpoint>
+<clawtip><position>(0.0901, 0.5533, 0.0852)</position></clawtip></t>
+<t><time>201.791</time>
+<viewpoint> <position>(-0.3505, 5.1265, 4.7735)</position> <rotation>(0.0146, 0.9166, -0.3982, 0.0336)</rotation></viewpoint>
+<clawtip><position>(0.1398, 0.5533, 0.2944)</position></clawtip></t>
+<t><time>202.298</time>
+<viewpoint> <position>(-0.3055, 5.1171, 4.7903)</position> <rotation>(0.0127, 0.9172, -0.3972, 0.0292)</rotation></viewpoint>
+<clawtip><position>(0.2482, 0.5533, 0.5031)</position></clawtip></t>
+<t><time>202.445</time>
+<event>ReleaseButtonPressed</event></t>
+<t><time>202.445</time>
+<event>ClawWillRelease</event></t>
+<t><time>202.805</time>
+<viewpoint> <position>(-0.3087, 5.1064, 4.7907)</position> <rotation>(0.0128, 0.9174, -0.3967, 0.0295)</rotation></viewpoint>
+<clawtip><position>(0.3708, 0.5533, 0.5717)</position></clawtip></t>
+<t><time>203.325</time>
+<viewpoint> <position>(-0.3008, 5.1063, 4.7806)</position> <rotation>(0.0125, 0.9172, -0.3972, 0.0288)</rotation></viewpoint>
+<clawtip><position>(0.3905, 0.5533, 0.4840)</position></clawtip></t>
+<t><time>203.352</time>
+<event>ClawDetachedTarget</event></t>
+<t><time>203.352</time>
+<event>ClawReleased</event></t>
+<t><time>203.740</time>
+<event>Target dropped, collided on WoodenCrate</event></t>
+<t><time>203.831</time>
+<viewpoint> <position>(-0.3032, 5.0995, 4.7761)</position> <rotation>(0.0126, 0.9172, -0.3971, 0.0291)</rotation></viewpoint>
+<clawtip><position>(0.3907, 0.5980, 0.3887)</position></clawtip></t>
+<t><time>203.952</time>
+<event>ClawCompetedTarget</event></t>
+<t><time>203.952</time>
+<keyevent>ClawSceneCompleted</keyevent></t>

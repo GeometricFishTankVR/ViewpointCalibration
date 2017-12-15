@@ -1,0 +1,75 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!1001 &100100000
+Prefab:
+  m_ObjectHideFlags: 1
+  serializedVersion: 2
+  m_Modification:
+    m_TransformParent: {fileID: 0}
+    m_Modifications: []
+    m_RemovedComponents: []
+  m_ParentPrefab: {fileID: 0}
+  m_RootGameObject: {fileID: 1225495645005076}
+  m_IsPrefabParent: 1
+--- !u!1 &1225495645005076
+GameObject:
+  m_ObjectHideFlags: 0
+  m_PrefabParentObject: {fileID: 0}
+  m_PrefabInternal: {fileID: 100100000}
+  serializedVersion: 5
+  m_Component:
+  - component: {fileID: 4177167533952878}
+  - component: {fileID: 114972822980142754}
+  - component: {fileID: 114986445354244628}
+  m_Layer: 0
+  m_Name: Camera Spawner
+  m_TagString: Untagged
+  m_Icon: {fileID: 0}
+  m_NavMeshLayer: 0
+  m_StaticEditorFlags: 0
+  m_IsActive: 1
+--- !u!4 &4177167533952878
+Transform:
+  m_ObjectHideFlags: 1
+  m_PrefabParentObject: {fileID: 0}
+  m_PrefabInternal: {fileID: 100100000}
+  m_GameObject: {fileID: 1225495645005076}
+  m_LocalRotation: {x: 0, y: 0, z: 0, w: 1}
+  m_LocalPosition: {x: 0, y: 0, z: 0}
+  m_LocalScale: {x: 1, y: 1, z: 1}
+  m_Children: []
+  m_Father: {fileID: 0}
+  m_RootOrder: 0
+  m_LocalEulerAnglesHint: {x: 0, y: 0, z: 0}
+--- !u!114 &114972822980142754
+MonoBehaviour:
+  m_ObjectHideFlags: 1
+  m_PrefabParentObject: {fileID: 0}
+  m_PrefabInternal: {fileID: 100100000}
+  m_GameObject: {fileID: 1225495645005076}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: 4d7333cfe245cc94cbc3713dc4e6c3bb, type: 3}
+  m_Name: 
+  m_EditorClassIdentifier: 
+  CameraChoice: 0
+  SteamVRPlayerPrefab: {fileID: 1405872524186522, guid: f967721f995b7c14a934bae53a4beafa,
+    type: 2}
+  OnePlayerHeadTrackerDisplayPrefab: {fileID: 1493155575561064, guid: 6d2cf765546c0564a876b8d1f2de0b19,
+    type: 2}
+  TwoPlayerHeadTrackerDisplayPrefab: {fileID: 0}
+  VirtualPointer: {fileID: 0}
+  SpawnOffset: {x: 0, y: -2.5, z: 3}
+--- !u!114 &114986445354244628
+MonoBehaviour:
+  m_ObjectHideFlags: 1
+  m_PrefabParentObject: {fileID: 0}
+  m_PrefabInternal: {fileID: 100100000}
+  m_GameObject: {fileID: 1225495645005076}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: f1706dc3ad57475468aaaf0c495e4df7, type: 3}
+  m_Name: 
+  m_EditorClassIdentifier: 
+  PlayerOneTransform: {fileID: 0}
+  PlayerTwoTransform: {fileID: 0}

@@ -1,0 +1,17 @@
+fileFormatVersion: 2
+guid: 4833c1835d192e54a9671cb947f34e5c
+timeCreated: 1493927409
+licenseType: Free
+MonoImporter:
+  serializedVersion: 2
+  defaultReferences:
+  - CubeDamageFxPrefab: {fileID: 1011264161506650, guid: 54cd286d683bb514681a24afe2597deb,
+      type: 2}
+  - CubeParticlePrefab: {fileID: 1601534299660660, guid: 0e529e2e158afca449218daa34beb9d8,
+      type: 2}
+  - DamageSoundEffect: {fileID: 8300000, guid: 0495967af8860354e96d047cfd74eaeb, type: 3}
+  executionOrder: 0
+  icon: {instanceID: 0}
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 

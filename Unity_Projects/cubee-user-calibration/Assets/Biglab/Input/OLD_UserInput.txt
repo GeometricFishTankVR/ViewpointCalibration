@@ -1,0 +1,74 @@
+﻿using System.Collections.Generic;
+using UnityEngine;
+
+/// <summary>
+/// A custom <see cref="Input"/> like interface for detecting user input.
+/// Defaults to strings defined in the InputManager.
+/// </summary>
+public static class OLD_UserInput
+{
+    private static OLD_CustomInputModule _UserInputSystem;
+    private static WiimoteHandler _WiimoteHandler;
+
+    /// <summary>
+    /// A ray that can be used as a 'pointer' or a 'cursor ray' for interacting with the world.
+    /// </summary>
+    public static Ray PointerRay { get { return GetUserInputSystem().PointerRay; } }
+
+    /// <summary>
+    /// A ray that can be used as a 'pointer' or a 'cursor ray' for interacting with the world.
+    /// </summary>
+    public static Ray PointerRayDelta { get { return GetUserInputSystem().PointerRayDelta; } }
+
+    #region Get Input
+
+    /// <summary>
+    /// Gets an axis value with the given name.
+    /// </summary>
+    public static float GetAxis( string name )
+    {
+        return GetUserInputSystem().GetAxis( name );
+    }
+
+    /// <summary>
+    /// Checks if a button is held down with the given name.
+    /// </summary>
+    public static bool GetButton( string name )
+    {
+        return GetUserInputSystem().GetButton( name );
+    }
+
+    /// <summary>
+    /// Checks if a button was pressed this frame with the given name.
+    /// </summary>
+    public static bool GetButtonDown( string name )
+    {
+        return GetUserInputSystem().GetButtonDown( name );
+    }
+
+    /// <summary>
+    /// Checks if a button was released this frame with the given name.
+    /// </summary>
+    public static bool GetButtonUp( string name )
+    {
+        return GetUserInputSystem().GetButtonUp( name );
+    }
+
+    #endregion 
+
+    public static OLD_CustomInputModule GetUserInputSystem()
+    {
+        if( _UserInputSystem == null )
+            _UserInputSystem = Object.FindObjectOfType<OLD_CustomInputModule>();
+
+        return _UserInputSystem;
+    }
+
+    public static WiimoteHandler GetWiimoteHandler()
+    {
+        if( _WiimoteHandler == null )
+            _WiimoteHandler = Object.FindObjectOfType<WiimoteHandler>();
+
+        return _WiimoteHandler;
+    }
+}

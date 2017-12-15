@@ -1,0 +1,15 @@
+
+                                         Norm of      First-order 
+ Iteration  Func-count     f(x)          step          optimality
+     0          8       0.0392591                         0.116
+     1         16       0.0387205     0.00491262       1.41e-08      
+     2         24       0.0387205    2.10647e-10        3.8e-08      
+
+Local minimum possible.
+
+lsqnonlin stopped because the final change in the sum of squares relative to 
+its initial value is less than the selected value of the function tolerance.
+
+
+
+writing xml file to transformVp.xml

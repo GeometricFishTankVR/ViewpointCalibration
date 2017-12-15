@@ -1,0 +1,9 @@
+﻿WIIMOTE NOTES:
+
+If the wiimote doesn't connect, try making sure only the one blutooth device is connected.
+The Oculus rift/Vive box might count as a bluetooth device in some manner.
+
+TODO:
+Input mapping separate from source? Likewise for CustomInput object itself... 
+Probably can create ScriptableObjects that encode this.
+Ie) "Jump -> A" definition doesn't require to know which wiimote or the input system.

@@ -1,0 +1,4 @@
+MyGameTag: MyGameClass Start.
+Not enough displays to activate this projector: Projector 1
+Not enough displays to activate this projector: Projector 2
+Not enough displays to activate this projector: Projector 3

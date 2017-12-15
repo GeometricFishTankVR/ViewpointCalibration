@@ -1,0 +1,107 @@
+﻿using System;
+using System.Collections.Generic;
+using UnityEngine;
+
+/// <summary>
+/// A custom <see cref="Input"/> like interface for detecting user input.
+/// Defaults to strings defined in the InputManager.
+/// </summary>
+[RequireComponent( typeof( WiimoteHandler ) )]
+public class OLD_CustomInputModule : MonoBehaviour
+{ 
+    [SerializeField]
+    private List<WiimoteBinding> WiimoteBindings;
+    private WiimoteHandler WiimoteHandler;
+
+    [Tooltip( "Transform that represents the wiimote position and orientation." )]
+    public Transform WiimoteTransform;
+
+    /// <summary>
+    /// A ray that can be used as a 'pointer' for interacting with the world.
+    /// </summary>
+    public Ray PointerRay { get; private set; }
+
+    /// <summary>
+    /// A delta values of <see cref="PointerRay"/>.
+    /// </summary>
+    public Ray PointerRayDelta { get; private set; }
+
+    void Start()
+    {
+        //
+        if( WiimoteHandler == null )
+            WiimoteHandler = FindObjectOfType<WiimoteHandler>();
+
+        // 
+        WiimoteBindings = new List<WiimoteBinding>();
+    }
+
+    private void LateUpdate()
+    {
+        var handler = OLD_UserInput.GetWiimoteHandler();
+        if( handler != null && handler.NumberConnected > 0 )
+        {
+            // Wiimote ray
+            var wiimote = handler.transform;
+            SetPointerRay( new Ray( wiimote.position, wiimote.forward ) );
+        }
+        else
+        {
+            // Mouse to camera ray
+            var camera = Camera.main;
+            SetPointerRay( camera.ScreenPointToRay( Input.mousePosition ) );
+            WiimoteTransform.rotation = Quaternion.LookRotation( PointerRay.direction );
+            WiimoteTransform.position = PointerRay.origin;
+        }
+    }
+
+    private void SetPointerRay( Ray ray )
+    {
+        PointerRayDelta = new Ray( ray.origin - PointerRay.origin, ray.direction - PointerRay.direction );
+        PointerRay = ray;
+    }
+
+    #region Get Input
+
+    public float GetAxis( string name )
+    {
+        // TODO: Custom defined first priority items?
+        return Input.GetAxis( name );
+    }
+
+    public bool GetButton( string name )
+    {
+        var wiiidx = WiimoteBindings.FindIndex( b => b.Name == name );
+        if( wiiidx >= 0 )
+            return WiimoteHandler.Get( 0 ).GetButton( WiimoteBindings[wiiidx].Button );
+
+        return Input.GetButton( name );
+    }
+
+    public bool GetButtonDown( string name )
+    {
+        var wiiidx = WiimoteBindings.FindIndex( b => b.Name == name );
+        if( wiiidx >= 0 )
+            return WiimoteHandler.Get( 0 ).GetButtonDown( WiimoteBindings[wiiidx].Button );
+
+        return Input.GetButtonDown( name );
+    }
+
+    public bool GetButtonUp( string name )
+    {
+        var wiiidx = WiimoteBindings.FindIndex( b => b.Name == name );
+        if( wiiidx >= 0 )
+            return WiimoteHandler.Get( 0 ).GetButtonUp( WiimoteBindings[wiiidx].Button );
+
+        return Input.GetButtonUp( name );
+    }
+
+    #endregion 
+
+    [Serializable]
+    private struct WiimoteBinding
+    {
+        public string Name;
+        public WiimoteButton Button;
+    }
+}
