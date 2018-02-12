@@ -42,7 +42,7 @@ public class ViewpointCalibrationSelector : MonoBehaviour {
         List<string> fileNames = new List<string>();
         DirectoryInfo di = new DirectoryInfo(CalibrationDirectory);
         FileSystemInfo[] files = di.GetFileSystemInfos();
-        List<FileSystemInfo> finfos = files.Where(f => f.Name.Contains("_vc_2017"))
+        List<FileSystemInfo> finfos = files.Where(f => f.Name.Contains("_vc_"))
                                 .OrderBy(f => f.LastWriteTime).Reverse()
                                 .ToList();
         foreach (FileSystemInfo finfo in finfos)
