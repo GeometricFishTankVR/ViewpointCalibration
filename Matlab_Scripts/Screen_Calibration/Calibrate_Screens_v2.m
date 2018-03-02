@@ -3,10 +3,14 @@
 clear;
 close all;
 
-% Specify the number of corners to be detected
+% Specify the number of corners to be detected(number of square - 1)
 sx = 7;
 sy = 5;
 warning('off', 'all');
+
+% Spcify physical dimensions
+pixelSize = 96e-6; % 96 micrometer pixel width
+resolution = [2048 1536];
 
 % Get user input 
 name = input('Enter the base name of the images: ','s');
@@ -45,20 +49,17 @@ end
 
 %%
 
-% Spcify physical dimensions
-pixelSize = 96e-6; % 96 micrometer pixel width
-resolution = [2048 1536];
-p_width = 96e-6;
-num_px = 256;
+
+num_px = resolution(1)/(sx+1);
 nump = sx*sy;
-pwidth = p_width*num_px;
+squareSize = pixelSize*num_px;
 im_points = zeros(2,nump);
 kk = length(d);
 
 % Generate location of corners in screen space (maters)
 for j = 1:sy
     for i = 1:sx
-        im_points(:,sx*(j-1) + i) = [i*pwidth; j*pwidth];
+        im_points(:,sx*(j-1) + i) = [i*squareSize; j*squareSize];
     end
 end
 
@@ -119,12 +120,12 @@ ylabel('y axis (m)');
 zlabel('z axis (m)');
 axis equal
 % Plot the top screen in black
-plot3screen([0;0;0], eye(3),resolution(1)*p_width, resolution(2)*p_width, pwidth, 'k');
+plot3screen([0;0;0], eye(3),resolution(1)*pixelSize, resolution(2)*pixelSize, squareSize, 'k');
 plot3cam([0;0;0], eye(3), 0.01, 'k');
 colors = ['b', 'r', 'm', 'g', 'c', 'y'];
 % Plot the side screens in random colors
 for i = 1:4
-    plot3screen(final_Transform(1:3,4,i), final_Transform(1:3,1:3,i), resolution(1)*p_width,resolution(2)*p_width, pwidth, colors(mod(i,6)));
+    plot3screen(final_Transform(1:3,4,i), final_Transform(1:3,1:3,i), resolution(1)*pixelSize,resolution(2)*pixelSize, squareSize, colors(mod(i,6)));
     plot3cam(final_Transform(1:3,4,i), final_Transform(1:3,1:3,i),0.01, colors(mod(i,6)));
 end
 
@@ -135,11 +136,11 @@ hold on
 set(h,'ydir', 'reverse');
 set(h,'zdir', 'reverse');
 axis equal
-plot3screen([0;0;0], eye(3),resolution(1)*pixelSize, resolution(2)*p_width, pwidth, 'k');
+plot3screen([0;0;0], eye(3),resolution(1)*pixelSize, resolution(2)*pixelSize, squareSize, 'k');
 plot3cam([0;0;0], eye(3), 0.01, 'k');
 colors = ['b', 'r', 'm', 'g', 'c', 'y'];
 for i = 1:n
-    plot3screen(Screen_Transform(1:3,4,i), Screen_Transform(1:3,1:3,i), resolution(1)*p_width,resolution(2)*p_width, pwidth, colors(mod(i,6)+1));
+    plot3screen(Screen_Transform(1:3,4,i), Screen_Transform(1:3,1:3,i), resolution(1)*pixelSize,resolution(2)*pixelSize, squareSize, colors(mod(i,6)+1));
     plot3cam(Screen_Transform(1:3,4,i), Screen_Transform(1:3,1:3,i),0.01, colors(mod(i,6)+1));
 end
 
